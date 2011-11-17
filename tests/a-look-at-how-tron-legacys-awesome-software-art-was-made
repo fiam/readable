@@ -1,0 +1,4043 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+	<!--pagetype=post-->
+	<head>
+		<title>A Look at How Tron Legacy's Awesome Software Art Was Made</title>
+				<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="robots" content="all" />
+				<meta property="fb:page_id" content="5718758966" />
+				<meta name="fragment" content="!">
+				<meta name="fetchAsGooglebot" content="/?_escaped_fragment_=5788616/a-look-at-how-tron-legacys-awesome-software-art-was-made">
+						    <meta name="title" content="A Look at How Tron Legacy's Awesome Software Art Was Made" />
+		    <meta name="description" content="Have you ever wondered about the creative process behind all that software art you see in movies such as Minority Report? You&#039;ve probably wished your operating system&#039;s interface was blue-on-black, at any rate. Josh Nimoy, one of the men behind the special effects for Tron Legacy, has described how the movie&#039;s software art came about&amp;mdash;and provided a unique glimpse at some stills from the creative journey." />
+						    <link rel="image_src" href="http://betacache.gawkerassets.com/assets/images/4/2011/04/tronlegacysoftwareart1.jpg" />
+									<meta property="og:site_name" content=""/>
+    		<meta property="og:image" content="http://betacache.gawkerassets.com/assets/images/4/2011/04/xlarge_tronlegacysoftwareart1.jpg" />
+    		<meta property="og:title" content="A Look at How Tron Legacy's Awesome Software Art Was Made" />
+    		<meta property="og:description" content="Have you ever wondered about the creative process behind all that software art you see in movies such as Minority Report? You've probably wished your operating system's interface was blue-on-black, at any rate." />
+    		<meta property="og:type" content="article" />
+    		<meta property="og:url" content="http://gizmodo.com/5788616/a-look-at-how-tron-legacys-awesome-software-art-was-made"/>
+				
+	
+	<script type="text/javascript" charset="utf-8">
+		var pageType = 'post';
+				var siteConfig = {"id":"4","title":"Gizmodo"};
+	</script>
+
+		<link rel="stylesheet" type="text/css" href="http://fastcache.gawkerassets.com/assets/base.v10/css/../static/base.v10.20110411.css" />
+<link rel="stylesheet" type="text/css" href="http://betacache.gawkerassets.com/assets/v10.gizmodo.com/css/style.css?rev=20110411" />
+
+
+		<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>	<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+
+		<script type="text/javascript" src="http://fonts.gizmodo.com/zvc4iwz.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+			<script id="script_at_js" type="text/javascript" src="/at.js.php"></script>
+		<script type="text/javascript" src="http://fastcache.gawkerassets.com/assets/base.v10/js/../static/base.v10.jquery.20110411.js"></script>
+<script type="text/javascript" src="http://fastcache.gawkerassets.com/assets/base.v10/js/../static/base.v10.jqueryplugin.20110411.js"></script>
+<script type="text/javascript" src="http://fastcache.gawkerassets.com/assets/base.v10/js/../static/base.v10.framework.20110411.js"></script>
+<script type="text/javascript" src="http://fastcache.gawkerassets.com/assets/base.v10/js/../static/base.v10.misc.20110411.js"></script>
+<script type="text/javascript" src="http://fastcache.gawkerassets.com/assets/base.v10/js/../static/base.v10.widget.20110411.js"></script>
+		<script type="text/javascript">
+			//refererHandler = jQuery('#script_at_js').RefererHandler({}).data('RefererHandler');
+			adRobot = jQuery('#script_at_js').AdRobot().data('AdRobot');
+		</script>
+		<script type="text/javascript" charset="utf-8">
+			//if ( location.hash.indexOf('#!classic') != -1 ) { location.href = '/classic/'; }
+			jQuery(document).ready( function(){ checkHashForErrors(); showViewSwitcherDialog(); } );
+		</script>
+
+				<!-- Begin comScore Tag -->
+<script src="http://b.scorecardresearch.com/beacon.js"></script>
+<script>
+	var comscore_beacon = { c1:2, c2:"6770184", c3:"", c4:"http://gizmodo.com/", c5:"", c6:"", c15:"d83bc45c61a6ebfbdc572c64d1a295c6" };
+</script>
+<!-- End comScore Tag -->
+
+		
+
+		<link rel="apple-touch-icon" href="http://betacache.gawkerassets.com/assets/v10.gizmodo.com/img/apple-touch-icon.png"/>
+				<link rel="shortcut icon" href="/assets/base/img/favicon/gizmodo.ico" />
+						    <link rel="alternate" type="application/rss+xml" title="Gizmodo - all posts, full content with ads" href="http://gizmodo.com/index.xml" />
+		    <link rel="alternate" type="application/rss+xml" title="Gizmodo - all posts, excerpts without ads" href="http://gizmodo.com/excerpts.xml" />
+		    <link rel="alternate" type="application/rss+xml" title="Gizmodo - top stories only (fewer posts)" href="http://gizmodo.com/tag/top/index.xml" />
+		    <link rel="alternate" type="application/rss+xml" title="Gizmodo - full comment" href="http://gizmodo.com/xml/comments" />
+						    		    <link rel="canonical" href="http://gizmodo.com/#!5788616/a-look-at-how-tron-legacys-awesome-software-art-was-made" />
+		    		
+				<!-- Start GA tag -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-142218-3']);
+  _gaq.push(['_setDomainName', '.gizmodo.com']);
+
+  (function() {
+	  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script></head>
+<body class="page-post">
+<div class="container" id="main-container">
+
+	<div class="inner">
+
+			<div class="topchrome chrome">
+	<span class="brand"><a href="/">Gizmodo</a></span>
+
+	
+	<span class="gnc_external">
+		<a class="classic-switch gnc cn_classic_link" title="Switch to blog view" href="http://blog.gizmodo.com"></a>
+	</span>
+
+  <div id="post_date_views">
+  	  </div>
+</div>
+
+
+
+		
+<div id="container">
+	<div class="mainContent">
+
+	
+
+
+<div class="permalink postContainer postid_5788616  issued_1301931600 toppic">
+	<div class="gmgrid">
+
+		<div class="grid-full alpha omega">
+						<script type="text/javascript">
+			<!-- imgData -->
+			null			<!-- /imgData -->
+			</script>
+									<div class="ad_marquee"></div>
+			<div id="agegate_container" style="display: none;">
+	<div id="agegate_IDHERE" class="agegate_container">
+		<div class="roundbox">
+			<b class="rtop"><b class="rb1"></b><b class="rb2"></b><b class="rb3"></b><b class="rb4"></b></b>
+			<div class="roundcontent">
+				<form class="agegate_control cn_agegate_form" action="#">
+					<div class="ageconfirm"><div class="exclamation"></div>Please confirm your birth date:</div>
+					<div class="fields">
+						<input class="agegate_control cn_month validate valid_minmax-1_12" type="text" size="2" maxlength="2" name="month" value="mm" />
+						<input class="agegate_control cn_day validate valid_minmax-1_31" type="text" size="2" maxlength="2" name="day" value="dd" />
+						<input class="agegate_control cn_year validate valid_minmax-1900_2011" type="text" size="4" maxlength="4" name="year" value="yyyy" />
+						<br style="clear: both;" />
+					</div>
+					<input type="submit" value="Submit" class="agesubmit" />
+					<div class="validationmessage month_validmsg day_validmsg msg_valid_minmax" style="display: none;">Please enter a valid date</div>
+					<div class="validationmessage year_validmsg msg_valid_minmax" style="display: none;">Please enter your full birth year</div>
+				</form>
+
+			</div>
+			<b class="rbottom"><b class="rb4"></b><b class="rb3"></b><b class="rb2"></b><b class="rb1"></b></b>
+		</div>
+	</div>
+</div>
+
+<div id="agegate_container_rejected" style="display: none;">
+	<div id="agegate_IDHERE" class="agegate_container denied">
+		<div class="roundbox">
+			<b class="rtop"><b class="rb1"></b><b class="rb2"></b><b class="rb3"></b><b class="rb4"></b></b>
+			<div class="roundcontent"><div class="ageconfirm"><div class="exclamation"></div>This content is restricted.</div></div>
+			<b class="rbottom"><b class="rb4"></b><b class="rb3"></b><b class="rb2"></b><b class="rb1"></b></b>
+		</div>
+	</div>
+</div>
+
+			
+								<style type="text/css">
+						.toppic .post-body img.image_0 { display: none; }
+					</style>
+
+				<div class="imgwrap abovewrap" title="A Look at How Tron Legacy's Awesome Software Art Was Made">
+																							<img src="http://fastcache.gawkerassets.com/assets/images/4/2011/04/xlarge_tronlegacysoftwareart1.jpg"width="640" height="360" class="wide" />									</div>
+			
+						
+						    						<div class="permatag">
+					    <span class="tag modfont">
+															movies													</span>
+					    <div id="fbPlaceholder"></div>
+<!-- runScript --><script type="text/javascript">
+	jQuery( '#fbPlaceholder' ).html( '<iframe class="fblike" src="http://www.facebook.com/plugins/like.php?href=http://gizmodo.com/5788616/a-look-at-how-tron-legacys-awesome-software-art-was-made&amp;layout=button_count&amp;show_faces=false&amp;width=126&amp;action=like&amp;colorscheme=light&amp;height=24&amp;font=lucida+grande" scrolling="no" frameborder="0" allowTransparency="true"></iframe>' );
+</script>
+
+
+<div id="sharemenu-wrap" class="share-wrap">
+	<a class="cn_sharemenu" onclick="displayShareMenu()"></a>
+
+	<div id="sharemenu" class="sharemenu popup_menu" style="display:none">
+		<div class="popup_menu_title site-bg-color">
+			<span class="modfont">Share this post</span> <span class="closeButton cn_togglesharemenu" onclick="jQuery('#sharemenu').hide();">&times;</span>
+		</div>
+		<ul>
+			<li>
+				<a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fgizmodo.com%2F5788616%2Fa-look-at-how-tron-legacys-awesome-software-art-was-made" target="_blank"><img src="http://betacache.gawkerassets.com/assets/base.v10/img/ui/fbshare.png"/></a>
+			</li>
+			<li>
+								<a href="http://twitter.com/share" class="twitter-share-button" data-url="http://gizmodo.com/5788616/a-look-at-how-tron-legacys-awesome-software-art-was-made" data-text="A Look at How Tron Legacy's Awesome Software Art Was Made (via @Gizmodo)" data-count="horizontal">Tweet</a><div id="twitterPlaceholder"></div>
+				<!-- runScript -->
+				<script type="text/javascript">var twEl = document.createElement( 'script' ); twEl.type="text/javascript"; twEl.src = 'http://platform.twitter.com/widgets.js'; jQuery( '#twitterPlaceholder' ).append( twEl );</script>
+				<!-- iframe allowtransparency="true" frameborder="0" scrolling="no"
+				        src="http://platform.twitter.com/widgets/tweet_button.html?url=http://gizmodo.com/5788616/a-look-at-how-tron-legacys-awesome-software-art-was-made"></iframe-->
+			</li>
+			<li>
+				<iframe src="http://www.stumbleupon.com/badge/embed/1/?url=http://gizmodo.com/5788616/a-look-at-how-tron-legacys-awesome-software-art-was-made" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowTransparency="true"></iframe>
+			</li>
+
+						<li>
+				<a href="http://www.fark.com/cgi/farkit.pl?u=http://gizmodo.com/5788616/a-look-at-how-tron-legacys-awesome-software-art-was-made&h=A+Look+at+How+%3Cem%3ETron+Legacy%3C%2Fem%3E%27s+Awesome+Software+Art+Was+Made">
+					<img src="http://img.fark.net/pub/FarkItButton1_80x20.png" width="80" height="20" target="_blank" />
+				</a>
+			</li>
+			<li>
+				<a href="http://www.reddit.com/submit?url=http://gizmodo.com/5788616/a-look-at-how-tron-legacys-awesome-software-art-was-made" target="_blank"><img src="http://www.reddit.com/static/spreddit7.gif" alt="submit to reddit" border="0" /> </a>
+			</li>
+			<li class="pm_tool" id="mail2container">
+						<a class="pm_tool-icon mail2control cn_toggle" rel="nofollow" title="Send to friend" href="#"><img src="http://betacache.gawkerassets.com/assets/base.v10/img/ui/icon.mail2.gif" style="vertical-align:middle"/></a>
+						<a class="pm_tool mail2control cn_toggle" rel="nofollow" title="Send to friend" href="#">Email this post</a>
+			</li>
+		</ul>
+	</div>
+
+</div>
+
+<!-- runScript --><script type="text/javascript">
+	GawkerClientside.widgets.simpleform_mail2 = [ jQuery('#mail2container').SimpleFormWidget(settings.widgets.simpleform.byselector['#mail2container'].options).data('SimpleFormWidget') ];
+</script>
+	    									  </div>
+				    <h1 class="headline title"><a href="http://gizmodo.com/#!5788616/a-look-at-how-tron-legacys-awesome-software-art-was-made">A Look at How <em>Tron Legacy</em>&#8217;s Awesome Software Art Was Made</a></h1>
+							
+			<!-- google_ad_section_start -->
+			<div class="post-body">
+																<div class="ad_300x600"><!-- widget container -->
+<div id="ad_container_78536440" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_78536440" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="300" height="600"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			jQuery('#ad_container_78536440').AdUnit({"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"300x600","request_ad":true,"mode":"iframe","run_ad":true,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":78536440,"variant":"default","width":300,"height":600,"tags":["movies","joshnimoy","tron","tronlegacy","movie","film","films","specialeffects","softwareart","software","hackers"],"fallback_zone":"tron"});
+	</script></div><p><span class="pm_byline">
+			            
+	<a title="Kat Hannaford" href="/people/KatHannaford/" rel="nofollow" class="noHrefOverride">
+	    		<img src="http://cache.gawkerassets.com/assets/images/commenter/1530000/1533064_32.jpg" height="22" width="22" class="avatar CommenterImage" />
+		</a>
+<a href="/people/KatHannaford/" title="Click here to read posts written by KatHannaford" class="pm_link author noHrefOverride">Kat Hannaford</a>
+		    
+		
+		&mdash;
+
+        
+	
+	</span><a rel="lytebox" href="http://cache.gawkerassets.com/assets/images/4/2011/04/tronlegacysoftwareart1.jpg"><img src="http://cache.gawkerassets.com/assets/images/4/2011/04/medium_tronlegacysoftwareart1.jpg" width="300" class="image_0 v10_medium" alt="A Look at How Tron Legacy's Awesome Software Art Was Made"  title="A Look at How Tron Legacy's Awesome Software Art Was Made" /></a>Have you ever wondered about the creative process behind all that software art you see in movies such as <em>Minority Report</em>? You've probably wished your operating system's interface was blue-on-black, at any rate. Josh Nimoy, one of the men behind the special effects for <em>Tron Legacy</em>, has described how the movie's software art came about&mdash;and provided a unique glimpse at some stills from the creative journey.</p>
+<p>But first, Nimoy's incredible geeky look at other movies' software art:</p>
+<blockquote>
+<p>"I take representing digital culture in film very seriously in lieu of having grown up in a world of very badly researched user interface greeble. I cringed during the part in <em>Hackers</em> (1995) when a screen saver with extruded "equations" is used to signify that the hacker has reached some sort of neural flow or ambiguous destination. I cringed for <em>Swordfish</em> and <em>Jurassic Park</em> as well. I cheered when Trinity in <em>The Matrix</em> used nmap and ssh (and so did you). Then I cringed again when I saw that inevitably, Hollywood had decided that nmap was the thing to use for all its hacker scenes (see <em>Bourne Ultimatum, Die Hard 4, Girl with Dragon Tattoo, The Listening, 13: Game of Death, Battle Royale, Broken Saints</em>, and on and on).</p>
+<p>In <em>Tron</em>, the hacker was not supposed to be snooping around on a network; he was supposed to kill a process. So we went with posix kill and also had him pipe ps into grep. I also ended up using emacs eshell to make the terminal more l33t. The team was delighted to see my emacs performance &mdash; splitting the editor into nested panes and running different modes. I was tickled that I got emacs into a block buster movie. I actually do use emacs irl, and although I do not subscribe to alt.religion.emacs, I think that's all incredibly relevant to the world of <em>Tron</em>.</p>
+</blockquote>
+<p>Nimoy lists Adobe software; Cinema 4D and C++ along with OpenFrameworks and wxWidgets as being key ingredients in the six-person team's year-long journey writing the software used for <em>Tron Legacy</em>. Together with David Lewandowski, Jake Sargeant, Gmunk and two other artists, they gave us what you more-than-likely saw on the cinema screen&mdash;a beautifully-created movie, let down by a pretty weak script. But nonetheless!</p>
+<p>Whether you're an FX nerd or just like looking at pretty photos, do check out Nimoy's blog for more&mdash;we also have it on good authority that <a href="http://dlew.me/">Lewandowski</a>, <a href="http://mn8studio.com/">Sargeant</a> and <a href="http://gmunk.tv/">Gmunk</a> will be publishing more stills from the creative process shortly on their sites. [<a href="http://jtnimoy.net/workviewer.php?q=178">Josh Nimoy</a> via <a href="http://www.core77.com/blog/technology/josh_nimoy_on_the_secrets_behind_the_special_effects_in_tron_legacy_18933.asp?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+core77%2Fblog+%28Core77.com%27s+design+blog%29&utm_content=Google+Reader">Core77</a>]</p>								
+				
+			</div>
+			<!-- google_ad_section_end -->
+
+			
+
+						
+			<span class="clearfix"></span>
+
+			<div class="ad_perma-footer-adsense"></div>
+<div class="ad_perma-panorama"><div class="ad panorama">
+
+<!-- widget container -->
+<div id="ad_container_97333722" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_97333722" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="640" height="360"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			jQuery('#ad_container_97333722').AdUnit({"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"640x360","request_ad":true,"mode":"iframe","run_ad":true,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":97333722,"variant":"default","width":640,"height":360,"tags":["movies","joshnimoy","tron","tronlegacy","movie","film","films","specialeffects","softwareart","software","hackers"],"fallback_zone":"tron"});
+	</script>
+</div></div>			
+		</div><!--.grid-full-->
+	</div><!--.gmgrid-->
+
+
+
+
+
+	
+			<div id="comments">
+	<!--[if IE 6]>
+	<span class="small ie6only">Your version of Internet Explorer is not supported. Please upgrade to the most recent version in order to view comments.<br /><br /></span>
+	<![endif]-->
+
+	<div class="tac cn_adminbox_placetobe" style="display: none;">
+	<div class="popup_menu admin_links tac cn_adminbox" style="display: none;">
+		<div class="popup_menu_title site-bg-color">
+			<span class="closeButton tac cn_adminlinks">&times;</span>
+		</div>
+		<a class="tac cn_openwarndialog" title="Move comment">Move comment</a>
+		<a class="tac cn_adminpage" title="Go to user admin page">Admin page</a>
+				<a class="tac cn_adminedit" title="Edit this comment">Edit comment</a>
+				<a class="tac cn_admindemote" title="Demote this comment">Demote comment</a>
+		<img class="commenticon icon_progress tac cn_s_ind" style="display: none;" width="12" height="12" alt="sending request" src="http://betacache.gawkerassets.com/assets/base.v10/img/indicator/progressIndicator_roller.gif" />
+	</div>
+</div>
+
+<div class="tac cn_warndialog_placetobe">
+	<div class="popup_menu user_warn tac cn_warndialog" style="display: none;">
+		<div class="popup_menu_title site-bg-color">
+			Move thread <span class="closeButton tac cn_closewarndialog">&times;</span>
+		</div>
+		<div class="uw_block">
+			<h5>User action</h5>
+			<select name="userstate" class="tac cn_uw_state">
+				<option value="">none</option>
+				<option value="warn">warn</option>
+				<option value="suspend">suspend (1week)</option>
+				<option value="ban">ban</option>
+			</select>
+		</div>
+		<div class="uw_block">
+			<h5>Thread action</h5>
+			<select name="moveto" class="tac cn_uw_moveto">
+				<option value="">don't move</option>
+								<option value="devnull">#devnull</option>
+								<option value="restrainingorder">#restrainingorder</option>
+								<option value="trollpatrol">#trollpatrol</option>
+								<option value="fanboys">#fanboys</option>
+								<option value="timeout">#timeout</option>
+								<option value="phantomzone">#phantomzone</option>
+								<option value="whitenoise">#whitenoise</option>
+								<option value="corrections">#corrections</option>
+								<option value="other">other...</option>
+			</select>
+			<input type="text" name="moveto_other" class="tac cn_uw_moveto_other" value="#" style="display: none;" />
+		</div>
+		<div class="buttons">
+			<button href="#" class="default tac cn_submituserwarn">Submit</button>&nbsp;&nbsp;
+			<button href="#" class="tac cn_closewarndialog">Cancel</button>
+		</div>
+		<br />
+		<img src="http://betacache.gawkerassets.com/assets/base.v10/img/indicator/progressIndicator_roller.gif" class="uw_progress tac cn_uw_progress" style="display: none;"/>
+		<div class="uw_message tac cn_uw_message"></div>
+	</div>
+</div>
+	<div id="commenttop"></div>
+
+	<div class="threadnav chrome tc cn_thread_firstpage">
+		<a href="#" class="tc cn_showfeatured chromebut withlabel selected">
+			<span class="modfont label">Discussion Threads</span>
+			Featured
+		</a>
+		<a href="#" class="tc cn_showall chromebut">All</a>
+		<a href="#" class="tc cn_newdiscussion chromebut">Start a new thread</a>
+	</div>
+
+	<span class="input_box_place"></span>
+
+	<div class="comment_list_placeholder tc cn_threadlist"></div>
+
+	<div class="comment_bottom_toolbar">
+		<a href="#" class="tc cn_nextpage" style="display: none;">Show earlier discussions</a><br />
+		<a href="#" class="tc cn_allthreads" style="display: none;">Show all discussions</a>
+		<a href="#" class="tc cn_featuredthreads" style="display: none;">Show promoted discussions only</a>
+	</div>
+
+	<noscript>
+		<div class="noscriptbar">
+			In order to view comments on gizmodo.com you need to enable JavaScript.<br /> If you are using Firefox and NoScript addon, please mark gizmodo.com as trusted.
+		</div>
+	</noscript>
+</div></div>
+
+<script type="text/javascript">
+    var rightbar_count = 0;
+</script>
+<div id="rightbar">
+
+</div>
+
+<div id="rightwrapper">
+	<div id="rightcontainer">
+		<div class="wrap">
+			<div id="rightbar_list_helper_container" style="width: 300px; height: 1px overflow: hidden;">
+				<div class="rightbar_list_helper" style="opacity: 0.01;position:absolute;"></div>
+			</div>
+
+			<div id="date-nav" class="rightbar_external chrome">
+
+	<div id="top_presence_control" class="smalltype date-info modfont chrome">
+		<div class="cn_profile_panel presence_control" style="display:none;">
+			<a href="#" class="presence_control cn_profile_link chromebut">Profile</a>
+			<img class="presence_control cn_logout_indicator" src="http://betacache.gawkerassets.com/assets/base.v10/img/indicator/bar-loader.gif" width="16" height="16" border="0" style="display: none;" />
+		</div>
+
+		<div class="cn_logout_panel presence_control chrome" style="display:none;">
+			<a href="#" class="presence_control cn_logout_link normal chromebut">logout</a>
+		</div>
+
+		<div class="cn_user_menu presence_control" id="userMenu" style="display: none;">
+			<div id="profileClickMode" style="display: none;">presence</div>
+			<div id="userNotificationContainer" class="notifications"></div>
+			<div id="clearNotifications" style="display: none">Clear notifications &times;</div>
+			<div class="actions">
+				<a href="/me" class="profile_link">Profile</a>
+				<a href="#" class="presence_control cn_logout_link normal">Logout</a>
+			</div>
+		</div>
+
+		<div class="cn_login_panel presence_control" style="display:none;">
+			<a href="#" class="login presence_control cn_togglelogindialog normal chromebut">login</a>
+		</div>
+	</div>
+
+	<div class="tools">
+		<a title="Home" class="tool home rightBarControl cn_home chromebut" href="#"></a>
+		<a title="Popular" class="tool popular rightBarControl cn_popular chromebut" href="#"></a>
+		        <a title="Search" class="search tool rightBarControl cn_search_open chromebut" href="#"></a>
+	</div>
+
+    		<a class="site-forecolor modfont rightBarControl cn_title">LATEST</a>
+	
+</div>
+<div class="welcome-box" id="welcome-box" style="display: none;">
+	<div class="header modfont site-bg-color">Prefer the traditional blog format?<a href="#" onclick="return hideViewSwitcherDialog();" title="Close" class="close">&times;</a></div>
+	<p class="site-forecolor">Switch to the blog view by clicking <a class="classic-switch gnc cn_classic_link" onclick="hideViewSwitcherDialog(); setClassicView(); return false;" href="http://blog.gizmodo.com"><img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/icon.classic.png" style="vertical-align:middle"/></a></p>
+</div>
+			<div id="rightbar_notification_container" class="inner">
+	<div id="user_notification" style="display: none;">
+		<div class="cn_user_header notificationControl notifbadge" style="display: none;"></div>
+		<div class="cn_user_list notificationControl"></div>
+	</div>
+	<div id="breaking_notification" style="display: none;">
+	</div>
+	<div id="post_notification" class="notifbadge" style="display: none;">
+		<div class="cn_wrap notificationControl"></div>
+	</div>
+	<div id="post_notification_overlay" style="display: none;"></div>
+
+	<div style="clear: both;"></div>
+</div>
+
+			<div id="rightbar_scroller">
+
+				<div class="inner ">
+					<div id="fb_300x250" style="display: none;">
+						<iframe src="http://www.facebook.com/plugins/likebox.php?id=5718758966&amp;width=300&amp;connections=10&amp;stream=false&amp;header=false&amp;height=250" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:250px;" allowTransparency="true"></iframe>
+					</div>
+					<div id="tomorrowsnews"><img alt="Loading" src="http://betacache.gawkerassets.com/assets/base.v10/img/ads/loading_300x250.jpg" /></div>					<div class="ad_300x250"><!-- widget container -->
+<div id="ad_container_50613109" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_50613109" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="300" height="250"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			jQuery('#ad_container_50613109').AdUnit({"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"300x250","request_ad":false,"mode":"iframe","run_ad":true,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":50613109,"variant":"default","width":300,"height":250,"fallback_zone":"tron"});
+	</script></div>					<div class="heading"></div>
+					<div class="search" id="top_search_control" style="display: none;">
+        <form class="searchControl cn_form search_form" method="post" action="/search" name="search_form">
+            <input type="text" class="searchControl cn_q term" results="5" value="" name="q" placeholder="SEARCH" autosave="gawker_srch" />
+
+            <a  class="gbut searchControl cn_submit" href="#" style="">
+	<span class="gbin">
+				<span class="gbtx ">
+						Search					</span>
+	</span>
+</a>                        <div class="searchOptions">
+            	            	<div class="searchOptionLine">
+            		<div class="searchOptionLabel">Display</div>
+            		            		<div class="searchOptionItem"><a class="searchControl  cn_filter cn_filter_all">All</a></div>
+            		            		<div class="searchOptionItem"><a class="searchControl  cn_filter cn_filter_today">Today</a></div>
+            		            		<div class="searchOptionItem"><a class="searchControl  cn_filter cn_filter_week">Last week</a></div>
+            		            		<div class="searchOptionItem"><a class="searchControl  cn_filter cn_filter_month">Last month</a></div>
+            		            		<br style="clear: both;"/>
+            	</div>
+            	            	<div class="searchOptionLine">
+            		<div class="searchOptionLabel">Sorting</div>
+            		            		<div class="searchOptionItem"><a class="searchControl  cn_sort cn_sort_relevance">Relevance</a></div>
+            		            		<div class="searchOptionItem"><a class="searchControl  cn_sort cn_sort_date">Date</a></div>
+            		            		<div class="searchOptionItem"><a class="searchControl  cn_sort cn_sort_popularity">Popularity</a></div>
+            		            		<br style="clear: both;"/>
+            	</div>
+            	            </div>
+            <div class="searchMessage searchControl cn_msg"></div>
+        </form>
+	<script type="text/javascript">
+		GawkerClientside.pushWidget('searchform', jQuery('#top_search_control').SearchFormWidget().data('SearchFormWidget'));
+	</script>
+</div>
+				</div>
+
+				<div class="" id="overhead_timeseparator"></div>
+
+				<div id="rightbarSpinnerOverlay" style="display: none;">
+					<img src="http://betacache.gawkerassets.com/assets/base.v10/img/indicator/progressIndicator_roller.gif" />
+				</div>
+
+				<div id="rightbarspinner" style="display: none;">
+					<div class="rightbarlistspinner">
+						<img src="http://betacache.gawkerassets.com/assets/base.v10/img/indicator/progressIndicator_roller.gif" />
+					</div>
+				</div>
+
+				<div class="rightBarControl cn_pager upper" style="display:none;">
+					<a  class="gbut rightBarControl cn_prevpage thin" href="#" style="">
+	<span class="gbin">
+				<span class="gbtx ">
+						Newer headlines					</span>
+	</span>
+</a>				</div>
+
+				<div id="ie7_overflow_helper"><div id="pane">
+					<div class="rightbar_list">
+					
+	
+	<div class="postid_5790981 post siteid_4 issued_1302554423">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!wtf/5790981" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				wtf			</span>
+							<br/><span class="timestamp">4:40 PM</span>
+						    							</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790981/private-records-of-35-million-texans-were-mistakenly-leaked-by-the-state">
+			
+			<span class="headline-txt">
+				Private Records of 3.5 Million Texans Were Mistakenly Leaked by the State				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790880 post siteid_4 issued_1302554408">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!apps/5790880" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				apps			</span>
+						    							</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790880/viddy-iphone-app-is-like-a-hipstainstamaticgramthingy-for-videos">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/4/2011/04/small_viddyiphoneapp.jpg" />
+			
+			<span class="headline-txt">
+				Viddy iPhone App is Like a HipstaInstaMaticGramThingy For Videos				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790952 post siteid_4 issued_1302552178">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!blip/5790952" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				blip			</span>
+						    							</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790952/windows-8-app-store-images-surface-look-about-right">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/4/2011/04/small_win8.png" />
+			
+			<span class="headline-txt">
+				Windows 8 App Store Images Surface, Look About Right				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790816 post siteid_4 issued_1302552000">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!homemod/5790816" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				home mod			</span>
+							<br/><span class="timestamp">4:00 PM</span>
+						    							</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790816/rock-your-next-block-party-with-these-eight-great-grilling-gadgets">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/4/2011/04/small_bbq_giftguide.jpg" />
+			
+			<span class="headline-txt">
+				Rock Your Next Block Party with these Eight Great Grilling Gadgets				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790839 post siteid_39 issued_1302550800">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!photoshopofhorrors/5790839" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				photoshop of horrors			</span>
+						    								<br/>
+			<span class="highlight">
+				38,928&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790936/what-is-up-with-the-shoulders-at-victorias-secret">
+			
+			<span class="headline-txt">
+				What Is Up With The Shoulders At Victoria&#8217;s Secret?				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790762 post siteid_4 issued_1302549600">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!music/5790762" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				music			</span>
+						    							</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790762/watermarks-could-rain-on-cloud-music-locker-parade">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/4/2011/04/small_clouds.jpg" />
+			
+			<span class="headline-txt">
+				Watermarks Could Rain on Cloud Music Locker Parade				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790714 post siteid_17 issued_1302548400">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!macosx/5790714" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				mac os x			</span>
+							<br/><span class="timestamp">3:00 PM</span>
+						    								<br/>
+			<span class="highlight">
+				15,282&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://lifehacker.com/#!5790714/how-to-update-to-mac-os-x-lion-without-losing-your-current-installation">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/17/2011/04/small_1200-creepy-chimera-snow-lion.jpg" />
+			
+			<span class="headline-txt">
+				How to Update to Mac OS X Lion Without Losing Your Current Installation				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790929 post siteid_4 issued_1302548400">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!dealzmodo/5790929" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				dealzmodo			</span>
+							<br/><span class="timestamp">3:00 PM</span>
+						    								<br/>
+			<span class="highlight">
+				20,838&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"><!-- widget container -->
+<div id="ad_container_39624350" class="ad_container" style="display: none;">
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			jQuery('#ad_container_39624350').AdUnit({"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"82x50","request_ad":true,"mode":"div","run_ad":true,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":39624350,"variant":"default","forced_zone":"dealzmodo","fallback_zone":"dealzmodo"});
+	</script></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790929/the-best-deal-of-the-day">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/4/2011/04/small_deal_4-11-2011-2.jpg" />
+			
+			<span class="headline-txt">
+				The Best Deal of the Day				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790914 post siteid_4 issued_1302547531">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!apple/5790914" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				apple			</span>
+						    							</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790914/the-life-story-of-the-man-writing-steve-jobs-life-story">
+			
+			<span class="headline-txt">
+				The Life Story of the Man Writing Steve Jobs&#8217; Life Story				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790876 post siteid_4 issued_1302547200">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!humor/5790876" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				humor			</span>
+						    								<br/>
+			<span class="highlight">
+				22,234&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790876/how-software-updates-work-on-mac-and-pc-according-to-eddie-izzard">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/4/2011/04/small_etbkbt_f9nq.jpg" />
+			
+			<span class="headline-txt">
+				How Software Updates Work on Mac and PC According to Eddie Izzard				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790888 post siteid_12 issued_1302546300">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!infrastructure/5790888" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				infrastructure			</span>
+						    								<br/>
+			<span class="highlight">
+				30,479&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://jalopnik.com/#!5790888/this-is-not-an-ocean">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/12/2011/04/small_oceantest2.jpg" />
+			
+			<span class="headline-txt">
+				This is not an ocean				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790748 post siteid_12 issued_1302544800">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!planelopnik/5790748" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				Planelopnik			</span>
+							<br/><span class="timestamp">2:00 PM</span>
+						    								<br/>
+			<span class="highlight">
+				10,523&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://jalopnik.com/#!5790748/virgin-galactic-posts-help-wanted-for-astronauts">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/12/2011/04/small_branson2.jpg" />
+			
+			<span class="headline-txt">
+				Virgin Galactic posts help wanted for astronauts				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790881 post siteid_4 issued_1302543534">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!apple/5790881" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				apple			</span>
+						    								<br/>
+			<span class="highlight">
+				17,898&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790881/new-hire-brings-apples-carbon-fiber-dream-closer-to-reality">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/4/2011/04/small_ipad-carbon-fiber_01.jpg" />
+			
+			<span class="headline-txt">
+				New Hire Brings Apple&#8217;s Carbon Fiber Dream Closer To Reality				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790822 post siteid_4 issued_1302541200">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!hackers/5790822" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				hackers			</span>
+							<br/><span class="timestamp">1:00 PM</span>
+						    								<br/>
+			<span class="highlight">
+				45,358&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"><!-- widget container -->
+<div id="ad_container_40123806" class="ad_container" style="display: none;">
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			jQuery('#ad_container_40123806').AdUnit({"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"82x50","request_ad":true,"mode":"div","run_ad":true,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":40123806,"variant":"default","forced_zone":"gaming","fallback_zone":"gaming"});
+	</script></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790822/a-hackers-shady-start-geohot-in-middle-school">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/4/2011/04/small_geohotyearbook3.jpg" />
+			
+			<span class="headline-txt">
+				A Hacker&#8217;s Shady Start: Geohot In Middle School				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790635 post siteid_17 issued_1302537600">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!ios/5790635" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				ios			</span>
+							<br/><span class="timestamp">12:00 PM</span>
+						    								<br/>
+			<span class="highlight">
+				14,739&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://lifehacker.com/#!5790635/how-to-set-up-a-fully-automated-app-and-settings-backup-on-your-jailbroken-idevice">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/17/2011/04/small_0900-pkgbackup-feature.jpg" />
+			
+			<span class="headline-txt">
+				How to Set Up a Fully Automated App and Settings Backup on Your Jailbroken iDevice				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790773 post siteid_4 issued_1302537600">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!lego/5790773" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				lego			</span>
+							<br/><span class="timestamp">12:00 PM</span>
+						    								<br/>
+			<span class="highlight">
+				18,664&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790773/what-are-you-supposed-to-do-with-the-worlds-largest-lego-tower">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/4/2011/04/small_screen_shot_2011-04-11_at_2.49.02_pm.png" />
+			
+			<span class="headline-txt">
+				What Are You Supposed to Do With the World&#8217;s Largest Lego Tower				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790814 post siteid_9 issued_1302537300">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!lawsuit/5790814" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				lawsuit			</span>
+						    								<br/>
+			<span class="highlight">
+				55,092&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790821/playstation-hacker-geohot-settles-with-sony-computer-entertainment-america">
+			
+			<span class="headline-txt">
+				PlayStation Hacker Geohot Settles with Sony Computer Entertainment America				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790792 post siteid_4 issued_1302535200">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!dna/5790792" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				dna			</span>
+						    								<br/>
+			<span class="highlight">
+				30,650&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790792/23andmes-free-dna-test-pointless-or-profound">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/4/2011/04/small_free-dna.jpg" />
+			
+			<span class="headline-txt">
+				23andMe&#8217;s (Free) DNA Test: Pointless or Profound?				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790797 post siteid_4 issued_1302534000">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!guts/5790797" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				guts			</span>
+							<br/><span class="timestamp">11:00 AM</span>
+						    								<br/>
+			<span class="highlight">
+				21,586&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790797/intels-tablet-answer-atom-evolved">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/4/2011/04/small_500x_intel-atom.jpg" />
+			
+			<span class="headline-txt">
+				Intel&#8217;s Tablet Answer: Atom, Evolved				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790759 post siteid_4 issued_1302532800">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!weapons/5790759" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				weapons			</span>
+						    								<br/>
+			<span class="highlight">
+				19,752&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790759/darpas-hologram-goggles-will-unleash-drone-hell">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/4/2011/04/small_darpadrone.jpg" />
+			
+			<span class="headline-txt">
+				Darpa’s Hologram Goggles Will Unleash Drone Hell				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790778 post siteid_4 issued_1302532012">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!audio/5790778" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				audio			</span>
+						    							</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790778/jbls-airplay+powered-ipod-dock-is-here">
+			
+			<span class="headline-txt">
+				JBL&#8217;s AirPlay-Powered iPod Dock Is Here				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790767 post siteid_4 issued_1302530557">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!phones/5790767" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				phones			</span>
+						    								<br/>
+			<span class="highlight">
+				11,335&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790767/video-of-touchscreen-blackberry-bold-montana-shows-its-better-than-expected">
+			
+			<span class="headline-txt">
+				Video of Touchscreen BlackBerry Bold Montana Shows It&#8217;s Better Than Expected				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790744 post siteid_4 issued_1302529200">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!movies/5790744" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				movies			</span>
+						    								<br/>
+			<span class="highlight">
+				25,912&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790744/say-hello-to-the-cheap-movie-extras">
+			
+			<span class="headline-txt">
+				Say Hello to the Cheap Movie Extras				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790719 post siteid_9 issued_1302528000">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!theblow/5790719" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				the blow			</span>
+						    								<br/>
+			<span class="highlight">
+				28,369&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790741/fake-nintendo-cartridges-make-the-best-iphone-covers">
+			
+			<span class="headline-txt">
+				Fake Nintendo Cartridges Make The Best iPhone Covers				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790738 post siteid_4 issued_1302526800">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!genius/5790738" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				genius			</span>
+							<br/><span class="timestamp">9:00 AM</span>
+						    								<br/>
+			<span class="highlight">
+				17,804&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790738/the-bacon-bazooka-meat-your-maker">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/4/2011/04/small_bazookatop.jpg" />
+			
+			<span class="headline-txt">
+				The Bacon Bazooka: Meat Your Maker				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790735 post siteid_4 issued_1302524740">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!japan/5790735" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				japan			</span>
+						    							</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790735/japan-expands-evacuation-zone-again-as-radiation-rises">
+			
+			<span class="headline-txt">
+				Japan Expands Evacuation Zone Again as Radiation Rises				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790673 post siteid_17 issued_1302523200">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!lifehacker/5790673" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				lifehacker			</span>
+							<br/><span class="timestamp">8:00 AM</span>
+						    								<br/>
+			<span class="highlight">
+				62,837&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://lifehacker.com/#!5790673/this-is-lifehacker-episode-four-untangle-your-life-and-boost-your-wi+fi">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/17/2011/04/small_lifehacker_wireless.jpg" />
+			
+			<span class="headline-txt">
+				This Is Lifehacker, Episode Four: Untangle Your Life and Boost Your Wi-Fi				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790730 post siteid_4 issued_1302522600">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!airplay/5790730" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				airplay			</span>
+						    								<br/>
+			<span class="highlight">
+				17,809&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790730/apple-airplay-cracked-for-streaming-to-who+knows+what">
+			
+			<span class="headline-txt">
+				Apple Airplay Cracked For Streaming to Who-Knows-What				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790728 post siteid_4 issued_1302521100">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!tablets/5790728" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				tablets			</span>
+						    							</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790728/htc-flyer-tablet-priced-at-980-by-uk-retailer">
+			
+			<span class="headline-txt">
+				HTC Flyer Tablet Priced at $980 by UK Retailer				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790726 post siteid_4 issued_1302519000">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!science/5790726" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				science			</span>
+						    								<br/>
+			<span class="highlight">
+				30,743&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790726/dna+analyzer-23andme-having-0-sale-today-only">
+			
+			<span class="headline-txt">
+				DNA-Analyzer 23andMe Having $0 Sale Today Only				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790722 post siteid_4 issued_1302517227">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!furniture/5790722" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				furniture			</span>
+						    								<br/>
+			<span class="highlight">
+				17,309&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790722/walking-table-moves-like-a-spider-for-easier-movement-between-rooms">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/4/2011/04/small_walkingtable1.jpg" />
+			
+			<span class="headline-txt">
+				Walking Table Moves Like a Spider For Easier Movement Between Rooms				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790718 post siteid_4 issued_1302512441">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!japan/5790718" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				japan			</span>
+							<br/><span class="timestamp">5:00 AM</span>
+						    								<br/>
+			<span class="highlight">
+				14,732&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790718/multiple-earthquakes-rock-japan-as-tsunami-alarm-is-rung">
+			
+			<span class="headline-txt">
+				Multiple Earthquakes Rock Japan, as Tsunami Alarm is Rung				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790716 post siteid_4 issued_1302511200">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!google/5790716" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				google			</span>
+						    								<br/>
+			<span class="highlight">
+				14,666&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790716/google-pretty-much-gives-up-on-street-view-in-germany">
+			
+			<span class="headline-txt">
+				Google Pretty Much Gives Up on Street View in Germany				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790702 post siteid_4 issued_1302506127">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!apple/5790702" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				apple			</span>
+						    							</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790702/official-steve-jobs-biography-being-written-with-jobs-blessing">
+			
+			<span class="headline-txt">
+				Official Steve Jobs Biography Finally Has a Title and Release Date				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790662 post siteid_4 issued_1302494400">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!photoshop/5790662" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				photoshop			</span>
+							<br/><span class="timestamp">12:00 AM</span>
+						    								<br/>
+			<span class="highlight">
+				54,355&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790662/these-are-the-first-three-adobe-photoshop-touch-apps">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/4/2011/04/small_photoshop-touch.jpg" />
+			
+			<span class="headline-txt">
+				These Are the First Three Adobe Photoshop Touch Apps for iPad				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+		<div class="time-separator"><span class="time modfont">April 10, 2011</span></div>
+
+	
+	
+	<div class="postid_5790617 post siteid_8 issued_1302480036">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!spaceporn/5790617" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				space porn			</span>
+							<br/><span class="timestamp">8:00 PM</span>
+						    								<br/>
+			<span class="highlight">
+				14,016&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://io9.com/#!5790617/the-suns-surface-is-writhing-with-magnetic-loops">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/8/2011/04/small_zogwenqxm88.jpg" />
+			
+			<span class="headline-txt">
+				The Sun&#8217;s surface is writhing with magnetic loops				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790600 post siteid_4 issued_1302476400">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!concepts/5790600" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				concepts			</span>
+							<br/><span class="timestamp">7:00 PM</span>
+						    								<br/>
+			<span class="highlight">
+				39,128&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790600/meet-the-urban-bike-rack-concept-that-scales-the-sides-of-city-buildings">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/4/2011/04/small_bikerackconcept.jpg" />
+			
+			<span class="headline-txt">
+				Meet the Urban Bike Rack Concept That Scales the Sides of City Buildings				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790593 post siteid_4 issued_1302472800">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!games/5790593" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				games			</span>
+							<br/><span class="timestamp">6:00 PM</span>
+						    								<br/>
+			<span class="highlight">
+				21,190&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"><!-- widget container -->
+<div id="ad_container_61044007" class="ad_container" style="display: none;">
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			jQuery('#ad_container_61044007').AdUnit({"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"82x50","request_ad":true,"mode":"div","run_ad":true,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":61044007,"variant":"default","forced_zone":"gaming","fallback_zone":"gaming"});
+	</script></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790593/unique-tron-board-game-worthy-of-its-own-daft-punk-soundtrack">
+			
+			<span class="headline-txt">
+				Unique Tron Board Game Worthy of Its Own Daft Punk Soundtrack				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790590 post siteid_4 issued_1302469200">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!shhh/5790590" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				SHHH!			</span>
+							<br/><span class="timestamp">5:00 PM</span>
+						    								<br/>
+			<span class="highlight">
+				40,473&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790590/latest-alien-life-theory-posits-the-quietest-civilizations-probably-live-longest">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/4/2011/04/small_spacebasedshhh.jpg" />
+			
+			<span class="headline-txt">
+				Latest Alien Life Theory Posits the Quietest Civilizations Probably Live Longest				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790573 post siteid_4 issued_1302465600">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!looseends/5790573" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				loose ends			</span>
+							<br/><span class="timestamp">4:00 PM</span>
+						    								<br/>
+			<span class="highlight">
+				28,225&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790573/so-im-dead-whats-the-deal-with-my-digital-data">
+			
+			<span class="headline-txt">
+				So, I&#8217;m dead. What&#8217;s the deal with my digital data?				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790398 post siteid_17 issued_1302462000">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!music/5790398" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				music			</span>
+							<br/><span class="timestamp">3:00 PM</span>
+						    								<br/>
+			<span class="highlight">
+				24,881&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://lifehacker.com/#!5790398/burn-studios-audiotool-lets-you-mix-your-own-electronic-music-in-the-cloud">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/17/2011/04/small_burnstudios-audiotool.jpg" />
+			
+			<span class="headline-txt">
+				Burn Studios Audiotool Lets You Mix and Make Music in the Cloud				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790581 post siteid_4 issued_1302462000">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!bicycles/5790581" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				bicycles			</span>
+							<br/><span class="timestamp">3:00 PM</span>
+						    								<br/>
+			<span class="highlight">
+				27,246&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790581/this-is-one-sexy-custom-bike+building-video">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/4/2011/04/small_steelbicyclessoulcraft.jpg" />
+			
+			<span class="headline-txt">
+				This is One Catchy Custom Bike-Building Video				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790569 post siteid_4 issued_1302458400">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!tablets/5790569" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				tablets			</span>
+							<br/><span class="timestamp">2:00 PM</span>
+						    								<br/>
+			<span class="highlight">
+				15,494&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790569/google-mobile-survey-reveals-tablets-are-attacking-television">
+			
+			<span class="headline-txt">
+				Google Mobile Survey Reveals Tablets Are Attacking Television				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790598 post siteid_4 issued_1302456300">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!question/5790598" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				question			</span>
+						    								<br/>
+			<span class="highlight">
+				27,613&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790598/what-is-your-first-internet-memory">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/4/2011/04/small_americansonline.jpg" />
+			
+			<span class="headline-txt">
+				What Is Your First Internet Memory?				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790566 post siteid_4 issued_1302454800">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!genderroles/5790566" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				gender roles			</span>
+							<br/><span class="timestamp">1:00 PM</span>
+						    								<br/>
+			<span class="highlight">
+				24,458&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790566/gender-stereotypes-revealed-anew-in-toy-commercials-word-cloud">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/4/2011/04/small_battlepowerlovebabies.jpg" />
+			
+			<span class="headline-txt">
+				Gender Stereotypes Revealed Anew In Toy Commercials Word Cloud				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790560 post siteid_4 issued_1302451200">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!blip/5790560" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				blip			</span>
+							<br/><span class="timestamp">12:00 PM</span>
+						    								<br/>
+			<span class="highlight">
+				30,763&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790560/9570000000000000000000-bytes">
+			
+			<span class="headline-txt">
+				9,570,000,000,000,000,000,000 Bytes				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790556 post siteid_4 issued_1302447600">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!inventors/5790556" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				inventors			</span>
+							<br/><span class="timestamp">11:00 AM</span>
+						    								<br/>
+			<span class="highlight">
+				26,413&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790556/praising-failure-james-dyson-talks-vacuums-5127-prototypes">
+			
+			<span class="headline-txt">
+				Praising Failure: James Dyson Talks Vacuum&#8217;s 5,127 Prototypes				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790538 post siteid_12 issued_1302447600">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!junkyards/5790538" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				junkyards			</span>
+							<br/><span class="timestamp">11:00 AM</span>
+						    								<br/>
+			<span class="highlight">
+				74,942&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://jalopnik.com/#!5790538/weird-screw-drive-vehicle-found-in-russian-junkyard">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/12/2011/04/small_screwdrive.jpg" />
+			
+			<span class="headline-txt">
+				Russia&#8217;s crazy screw drive vehicle				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790555 post siteid_4 issued_1302444000">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!badges/5790555" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				badges			</span>
+							<br/><span class="timestamp">10:00 AM</span>
+						    							</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790555/boy-scouts-of-america-dip-toe-into-robotics-with-latest-merit-badge">
+			
+			<span class="headline-txt">
+				Boy Scouts of America Dip Toe Into Robotics with Latest Geeky Merit Badge				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+		<div class="time-separator"><span class="time modfont">April 9, 2011</span></div>
+
+	
+	
+	<div class="postid_5790541 post siteid_4 issued_1302400811">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!creeps/5790541" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				creeps			</span>
+							<br/><span class="timestamp">10:00 PM</span>
+						    								<br/>
+			<span class="highlight">
+				54,082&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790541/you-should-break-up-with-your-boyfriend-if-he-hacks-into-your-e+mail-and-uses-your-sexual-history-against-you">
+			
+			<span class="headline-txt">
+				You Should Break Up with Your Boyfriend If He Hacks Into Your E-Mail and Uses Your Sexual History Against You				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790505 post siteid_4 issued_1302397200">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!architecture/5790505" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				architecture			</span>
+							<br/><span class="timestamp">9:00 PM</span>
+						    								<br/>
+			<span class="highlight">
+				85,748&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790505/saudi-arabia-to-be-permanent-member-of-mile+high-club">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/4/2011/04/small_kingdom-tower-1-thumb-550xauto-60269.jpg" />
+			
+			<span class="headline-txt">
+				Saudi Arabia To Be Permanent Member of Mile-High Club				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+
+	
+	<div class="postid_5790458 post siteid_4 issued_1302393600">
+		
+
+
+<span class="rightBarControl cn_link wrapper">
+	<span class="hwrap">
+				<a href="/#!drums/5790458" class="toggleable rightBarControl cn_link tag modfont ">
+			<span class="ptag site-forecolor selector_tag">
+				drums			</span>
+							<br/><span class="timestamp">8:00 PM</span>
+						    								<br/>
+			<span class="highlight">
+				15,137&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5790458/portable-korg-wavedrum-mini-turns-random-surfaces-into-a-drum-kits">
+			
+			<span class="headline-txt">
+				Portable Korg Wavedrum Mini Turns Random Surfaces Into a Drum Kits				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>		
+	</div>
+<!-- sponsored -->
+<div id="sponsored_posts" style="display: none;">
+	
+	<div class="postid_5787381 sponsored promoted_1302033600 post siteid_13255 issued_1302019200">
+		
+
+
+<span class="rightBarControl cn_link wrapper sponsored">
+	<span class="hwrap">
+				<span class="tag modfont toggleable">
+			<span class="ptag site-forecolor selector_tag">
+				Sponsored			</span>
+						    							</span>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5787381/get-your-2011-gadget-forecast-here">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/13255/2011/03/small_sp-image_01.jpg" />
+			
+			<span class="headline-txt">
+				Get Your 2011 Gadget Forecast Here				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>					<div class="ad_tracker-rightbar-sp"><!-- widget container -->
+<div id="ad_container_85965173" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_85965173" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="1" height="1"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			adRobot.queueAdRun(85965173, {"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"1x1","request_ad":true,"mode":"iframe","run_ad":false,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":85965173,"variant":"default","width":1,"height":1,"tags":["whatscoming","advertisement","gizmodo","headline"],"ged_zone":"verizonpost","fallback_zone":"collapse"});
+	</script></div>			<div class="clear"></div>
+			<div class="sponsored sp_footer"></div>
+		
+	</div>
+
+	
+	<div class="postid_5786417 sponsored promoted_1301947200 post siteid_13255 issued_1301932800">
+		
+
+
+<span class="rightBarControl cn_link wrapper sponsored">
+	<span class="hwrap">
+				<span class="tag modfont toggleable">
+			<span class="ptag site-forecolor selector_tag">
+				Sponsored			</span>
+						    								<br/>
+			<span class="highlight">
+				16,757&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</span>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5786417/survive-nycs-2023-apocalypse-with-crynet-systems-nanosuit">
+			
+			<span class="headline-txt">
+				Survive NYC&#8217;s 2023 Apocalypse with Crynet System’s Nanosuit				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>					<div class="ad_tracker-rightbar-sp"><!-- widget container -->
+<div id="ad_container_77813545" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_77813545" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="1" height="1"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			adRobot.queueAdRun(77813545, {"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"1x1","request_ad":true,"mode":"iframe","run_ad":false,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":77813545,"variant":"default","width":1,"height":1,"tags":["futuretech","advertisement","gizmodo","headline"],"ged_zone":"eagamescrysispost","fallback_zone":"collapse"});
+	</script></div>			<div class="clear"></div>
+			<div class="sponsored sp_footer"></div>
+		
+	</div>
+
+	
+	<div class="postid_5787999 sponsored promoted_1301702400 post siteid_13255 issued_1301670060">
+		
+
+
+<span class="rightBarControl cn_link wrapper sponsored">
+	<span class="hwrap">
+				<span class="tag modfont toggleable">
+			<span class="ptag site-forecolor selector_tag">
+				Sponsored contest			</span>
+						    								<br/>
+			<span class="highlight">
+				10,812&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</span>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5787999/upgrade-your-man-cave">
+			
+			<span class="headline-txt">
+				Upgrade Your Man Cave				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>					<div class="ad_tracker-rightbar-sp"><!-- widget container -->
+<div id="ad_container_37734148" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_37734148" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="1" height="1"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			adRobot.queueAdRun(37734148, {"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"1x1","request_ad":true,"mode":"iframe","run_ad":false,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":37734148,"variant":"default","width":1,"height":1,"tags":["contest","gizmodo","headline"],"ged_zone":"collapse","fallback_zone":"collapse"});
+	</script></div>			<div class="clear"></div>
+			<div class="sponsored sp_footer"></div>
+		
+	</div>
+
+	
+	<div class="postid_5784026 sponsored promoted_1301097600 post siteid_13255 issued_1301083200">
+		
+
+
+<span class="rightBarControl cn_link wrapper sponsored">
+	<span class="hwrap">
+				<span class="tag modfont toggleable">
+			<span class="ptag site-forecolor selector_tag">
+				Sponsored			</span>
+						    							</span>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5784026/upgrade-your-man-cave">
+			
+			<span class="headline-txt">
+				Upgrade Your Man Cave				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>					<div class="ad_tracker-rightbar-sp"><!-- widget container -->
+<div id="ad_container_65148876" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_65148876" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="1" height="1"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			adRobot.queueAdRun(65148876, {"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"1x1","request_ad":true,"mode":"iframe","run_ad":false,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":65148876,"variant":"default","width":1,"height":1,"tags":["sponsoredcontest","advertisement","gizmodo","headline"],"ged_zone":"book","fallback_zone":"collapse"});
+	</script></div>			<div class="clear"></div>
+			<div class="sponsored sp_footer"></div>
+		
+	</div>
+
+	
+	<div class="postid_5782986 sponsored promoted_1300924800 post siteid_13255 issued_1300910400">
+		
+
+
+<span class="rightBarControl cn_link wrapper sponsored">
+	<span class="hwrap">
+				<span class="tag modfont toggleable">
+			<span class="ptag site-forecolor selector_tag">
+				Sponsored contest			</span>
+						    							</span>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5782986/whats-that-in-your-pocket">
+			
+			<span class="headline-txt">
+				What’s That In Your Pocket?				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>					<div class="ad_tracker-rightbar-sp"><!-- widget container -->
+<div id="ad_container_14286154" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_14286154" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="1" height="1"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			adRobot.queueAdRun(14286154, {"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"1x1","request_ad":true,"mode":"iframe","run_ad":false,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":14286154,"variant":"default","width":1,"height":1,"tags":["contest","advertisement","gizmodo","headline"],"ged_zone":"book","fallback_zone":"collapse"});
+	</script></div>			<div class="clear"></div>
+			<div class="sponsored sp_footer"></div>
+		
+	</div>
+
+	
+	<div class="postid_5775763 sponsored promoted_1300910400 post siteid_13255 issued_1300896000">
+		
+
+
+<span class="rightBarControl cn_link wrapper sponsored">
+	<span class="hwrap">
+				<span class="tag modfont toggleable">
+			<span class="ptag site-forecolor selector_tag">
+				Sponsored			</span>
+						    							</span>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5775763/get-your-2011-gadget-forecast-here">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/13255/2011/03/small_sp-image_01.jpg" />
+			
+			<span class="headline-txt">
+				Get Your 2011 Gadget Forecast Here				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>					<div class="ad_tracker-rightbar-sp"><!-- widget container -->
+<div id="ad_container_82991786" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_82991786" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="1" height="1"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			adRobot.queueAdRun(82991786, {"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"1x1","request_ad":true,"mode":"iframe","run_ad":false,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":82991786,"variant":"default","width":1,"height":1,"tags":["whatscoming","advertisement","gizmodo","headline"],"ged_zone":"verizonpost","fallback_zone":"collapse"});
+	</script></div>			<div class="clear"></div>
+			<div class="sponsored sp_footer"></div>
+		
+	</div>
+
+	
+	<div class="postid_5784013 sponsored promoted_1300838400 post siteid_13255 issued_1300824000">
+		
+
+
+<span class="rightBarControl cn_link wrapper sponsored">
+	<span class="hwrap">
+				<span class="tag modfont toggleable">
+			<span class="ptag site-forecolor selector_tag">
+				Sponsored contest			</span>
+						    							</span>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5784013/upgrade-your-man-cave">
+			
+			<span class="headline-txt">
+				Upgrade Your Man Cave				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>					<div class="ad_tracker-rightbar-sp"><!-- widget container -->
+<div id="ad_container_92321366" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_92321366" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="1" height="1"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			adRobot.queueAdRun(92321366, {"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"1x1","request_ad":true,"mode":"iframe","run_ad":false,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":92321366,"variant":"default","width":1,"height":1,"tags":["contest","gizmodo","headline"],"ged_zone":"book","fallback_zone":"collapse"});
+	</script></div>			<div class="clear"></div>
+			<div class="sponsored sp_footer"></div>
+		
+	</div>
+
+	
+	<div class="postid_5782601 sponsored promoted_1300824000 post siteid_13255 issued_1300809600">
+		
+
+
+<span class="rightBarControl cn_link wrapper sponsored">
+	<span class="hwrap">
+				<span class="tag modfont toggleable">
+			<span class="ptag site-forecolor selector_tag">
+				Sponsored			</span>
+						    							</span>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5782601/development-of-a-great-app-evernote">
+			
+			<span class="headline-txt">
+				Development of a Great App: <em>Evernote</em>				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>					<div class="ad_tracker-rightbar-sp"><!-- widget container -->
+<div id="ad_container_98501906" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_98501906" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="1" height="1"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			adRobot.queueAdRun(98501906, {"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"1x1","request_ad":true,"mode":"iframe","run_ad":false,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":98501906,"variant":"default","width":1,"height":1,"tags":["greatapps","advertisement","gizmodo","headline"],"ged_zone":"intelappuppost","fallback_zone":"collapse"});
+	</script></div>			<div class="clear"></div>
+			<div class="sponsored sp_footer"></div>
+		
+	</div>
+
+	
+	<div class="postid_5780167 sponsored promoted_1300752000 post siteid_13255 issued_1300737600">
+		
+
+
+<span class="rightBarControl cn_link wrapper sponsored">
+	<span class="hwrap">
+				<span class="tag modfont toggleable">
+			<span class="ptag site-forecolor selector_tag">
+				Sponsored contest			</span>
+						    							</span>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5780167/fly-far-far-away-for-free">
+			
+			<span class="headline-txt">
+				Fly Far, Far Away. For Free!				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>					<div class="ad_tracker-rightbar-sp"><!-- widget container -->
+<div id="ad_container_79377383" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_79377383" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="1" height="1"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			adRobot.queueAdRun(79377383, {"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"1x1","request_ad":true,"mode":"iframe","run_ad":false,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":79377383,"variant":"default","width":1,"height":1,"tags":["contest","gizmodo","headline"],"ged_zone":"book","fallback_zone":"collapse"});
+	</script></div>			<div class="clear"></div>
+			<div class="sponsored sp_footer"></div>
+		
+	</div>
+
+	
+	<div class="postid_5782339 sponsored promoted_1300305600 post siteid_13255 issued_1300291200">
+		
+
+
+<span class="rightBarControl cn_link wrapper sponsored" href="http://gizmodo.com/#!5782339/gamers-and-gizmodo-got-it-on-at-sxsw/gallery/">
+	<span class="hwrap">
+
+		<div class="gallery_preview">
+								<a class="rightBarControl cn_link" href="http://gizmodo.com/#!5782339/gamers-and-gizmodo-got-it-on-at-sxsw/gallery/1" class="gallery_image">
+						<img src="http://fastcache.gawkerassets.com/assets/images/13255/2011/03/xsmall_alienware-photo60.jpg" width="67" height="38" />
+											</a>
+								<a class="rightBarControl cn_link" href="http://gizmodo.com/#!5782339/gamers-and-gizmodo-got-it-on-at-sxsw/gallery/2" class="gallery_image">
+						<img src="http://fastcache.gawkerassets.com/assets/images/13255/2011/03/xsmall_alienware-photos.jpg" width="67" height="38" />
+											</a>
+								<a class="rightBarControl cn_link" href="http://gizmodo.com/#!5782339/gamers-and-gizmodo-got-it-on-at-sxsw/gallery/3" class="gallery_image">
+						<img src="http://fastcache.gawkerassets.com/assets/images/13255/2011/03/xsmall_alienware-photos10.jpg" width="67" height="38" />
+											</a>
+					</div>
+
+		<a href="/#!parties/5782339" class="toggleable rightBarControl tag cn_link modfont  site-forecolor">
+			<span class="ptag site-forecolor selector_tag">Sponsored</span>
+							<br/><span class="timestamp">12:00 PM</span>
+							    						</a>
+
+		<a class="headline" href="http://gizmodo.com/#!5782339/gamers-and-gizmodo-got-it-on-at-sxsw/gallery/">
+			Gamers and Gizmodo Got It On at SXSW
+					</a>
+
+	</span>
+
+	<div class="clear"></div>
+</span>
+					<div class="ad_tracker-rightbar-sp"><!-- widget container -->
+<div id="ad_container_49441914" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_49441914" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="1" height="1"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			adRobot.queueAdRun(49441914, {"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"1x1","request_ad":true,"mode":"iframe","run_ad":false,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":49441914,"variant":"default","width":1,"height":1,"tags":["parties","advertisement","gizmodo","headline"],"ged_zone":"alienwarepost ","fallback_zone":"collapse"});
+	</script></div>			<div class="clear"></div>
+			<div class="sponsored sp_footer"></div>
+		
+	</div>
+
+	
+	<div class="postid_5770670 sponsored promoted_1300219200 post siteid_13255 issued_1300204800">
+		
+
+
+<span class="rightBarControl cn_link wrapper sponsored">
+	<span class="hwrap">
+				<span class="tag modfont toggleable">
+			<span class="ptag site-forecolor selector_tag">
+				Sponsored			</span>
+						    							</span>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5770670/get-zagat-reviews-from-your-navigation-system">
+			
+			<span class="headline-txt">
+				Get Zagat Reviews from Your Navigation System				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>					<div class="ad_tracker-rightbar-sp"><!-- widget container -->
+<div id="ad_container_41899379" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_41899379" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="1" height="1"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			adRobot.queueAdRun(41899379, {"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"1x1","request_ad":true,"mode":"iframe","run_ad":false,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":41899379,"variant":"default","width":1,"height":1,"tags":["advertisement","gizmodo","headline"],"ged_zone":"acuratsxpost","fallback_zone":"collapse"});
+	</script></div>			<div class="clear"></div>
+			<div class="sponsored sp_footer"></div>
+		
+	</div>
+
+	
+	<div class="postid_5776707 sponsored promoted_1300132800 post siteid_13255 issued_1300118400">
+		
+
+
+<span class="rightBarControl cn_link wrapper sponsored">
+	<span class="hwrap">
+				<span class="tag modfont toggleable">
+			<span class="ptag site-forecolor selector_tag">
+				Sponsored			</span>
+						    							</span>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5776707/kill-it-in-your-next-meeting-by-being-the-guy-with-the-samsonite-laptop-bag">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/13255/2011/03/small_image.jpg" />
+			
+			<span class="headline-txt">
+				Kill It In Your Next Meeting By Being the Guy with the Samsonite Laptop Bag				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>					<div class="ad_tracker-rightbar-sp"><!-- widget container -->
+<div id="ad_container_35381392" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_35381392" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="1" height="1"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			adRobot.queueAdRun(35381392, {"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"1x1","request_ad":true,"mode":"iframe","run_ad":false,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":35381392,"variant":"default","width":1,"height":1,"tags":["havelaptopwilltravel","advertisement","gizmodo","headline"],"ged_zone":"samsonitebags","fallback_zone":"collapse"});
+	</script></div>			<div class="clear"></div>
+			<div class="sponsored sp_footer"></div>
+		
+	</div>
+
+	
+	<div class="postid_5775580 sponsored promoted_1299722400 post siteid_13255 issued_1299704400">
+		
+
+
+<span class="rightBarControl cn_link wrapper sponsored">
+	<span class="hwrap">
+				<span class="tag modfont toggleable">
+			<span class="ptag site-forecolor selector_tag">
+				Sponsored			</span>
+						    							</span>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5775580/class-up-your-place-with-a-limited+edition-print-from-gawker-artists">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/13255/2011/03/small_listfield-640x360.jpg" />
+			
+			<span class="headline-txt">
+				Class Up Your Place with a Limited-Edition Print From Gawker Artists				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>					<div class="ad_tracker-rightbar-sp"><!-- widget container -->
+<div id="ad_container_11546768" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_11546768" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="1" height="1"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			adRobot.queueAdRun(11546768, {"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"1x1","request_ad":true,"mode":"iframe","run_ad":false,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":11546768,"variant":"default","width":1,"height":1,"tags":["gawkerartists","advertisement","gizmodo","headline"],"ged_zone":"collapse","fallback_zone":"collapse"});
+	</script></div>			<div class="clear"></div>
+			<div class="sponsored sp_footer"></div>
+		
+	</div>
+
+	
+	<div class="postid_5775733 sponsored promoted_1299704400 post siteid_13255 issued_1299690000">
+		
+
+
+<span class="rightBarControl cn_link wrapper sponsored">
+	<span class="hwrap">
+				<span class="tag modfont toggleable">
+			<span class="ptag site-forecolor selector_tag">
+				Sponsored			</span>
+						    							</span>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"><!-- widget container -->
+<div id="ad_container_69813235" class="ad_container" style="display: none;">
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			jQuery('#ad_container_69813235').AdUnit({"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"82x50","request_ad":true,"mode":"div","run_ad":true,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":69813235,"variant":"default","forced_zone":"sxsw","fallback_zone":"sxsw"});
+	</script></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5775733/gizmodo-throwing-a-glowing-gaming-sxsw-party">
+			
+			<span class="headline-txt">
+				Gizmodo Is Throwing a Glowing, Gaming SXSW Party. Wanna Come?				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>					<div class="ad_tracker-rightbar-sp"><!-- widget container -->
+<div id="ad_container_47116993" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_47116993" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="1" height="1"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			adRobot.queueAdRun(47116993, {"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"1x1","request_ad":true,"mode":"iframe","run_ad":false,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":47116993,"variant":"default","width":1,"height":1,"tags":["sxsw","advertisement","gizmodo","headline"],"ged_zone":"sxswpost","fallback_zone":"sxsw"});
+	</script></div>			<div class="clear"></div>
+			<div class="sponsored sp_footer"></div>
+		
+	</div>
+
+	
+	<div class="postid_5775536 sponsored promoted_1299283200 post siteid_13255 issued_1299265200">
+		
+
+
+<span class="rightBarControl cn_link wrapper sponsored">
+	<span class="hwrap">
+				<span class="tag modfont toggleable">
+			<span class="ptag site-forecolor selector_tag">
+				Sponsored			</span>
+						    								<br/>
+			<span class="highlight">
+				13,308&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</span>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5775536/barbara-corcoran-heres-how-i-turned-1000-into-70-million">
+			
+			<span class="headline-txt">
+				Barbara Corcoran: Here&#8217;s How I Turned $1,000 Into $70 Million				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>					<div class="ad_tracker-rightbar-sp"><!-- widget container -->
+<div id="ad_container_11548657" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_11548657" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="1" height="1"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			adRobot.queueAdRun(11548657, {"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"1x1","request_ad":true,"mode":"iframe","run_ad":false,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":11548657,"variant":"default","width":1,"height":1,"tags":["moneymaking","advertisement","gizmodo","headline"],"ged_zone":"cdwpost","fallback_zone":"collapse"});
+	</script></div>			<div class="clear"></div>
+			<div class="sponsored sp_footer"></div>
+		
+	</div>
+
+	
+	<div class="postid_5766399 sponsored promoted_1299265200 post siteid_13255 issued_1299247200">
+		
+
+
+<span class="rightBarControl cn_link wrapper sponsored">
+	<span class="hwrap">
+				<span class="tag modfont toggleable">
+			<span class="ptag site-forecolor selector_tag">
+				Sponsored			</span>
+						    							</span>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5766399/fly-far-far-away-for-free">
+			
+			<span class="headline-txt">
+				Fly Far, Far Away. For Free!				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>					<div class="ad_tracker-rightbar-sp"><!-- widget container -->
+<div id="ad_container_49604011" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_49604011" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="1" height="1"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			adRobot.queueAdRun(49604011, {"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"1x1","request_ad":true,"mode":"iframe","run_ad":false,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":49604011,"variant":"default","width":1,"height":1,"tags":["advertisement","gizmodo","headline"],"ged_zone":"book","fallback_zone":"collapse"});
+	</script></div>			<div class="clear"></div>
+			<div class="sponsored sp_footer"></div>
+		
+	</div>
+
+	
+	<div class="postid_5774426 sponsored promoted_1299189600 post siteid_13255 issued_1299175200">
+		
+
+
+<span class="rightBarControl cn_link wrapper sponsored">
+	<span class="hwrap">
+				<span class="tag modfont toggleable">
+			<span class="ptag site-forecolor selector_tag">
+				Sponsored			</span>
+						    							</span>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5774426/calling-all-left+brainers-and-bagel-enthusiasts-work-for-us">
+			
+			<span class="headline-txt">
+				Calling All Left-Brainers and Bagel Enthusiasts: Work For Us				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>					<div class="ad_tracker-rightbar-sp"><!-- widget container -->
+<div id="ad_container_36707254" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_36707254" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="1" height="1"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			adRobot.queueAdRun(36707254, {"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"1x1","request_ad":true,"mode":"iframe","run_ad":false,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":36707254,"variant":"default","width":1,"height":1,"tags":["workforus","advertisement","gizmodo","lifehacker","headline"],"ged_zone":"book","fallback_zone":"collapse"});
+	</script></div>			<div class="clear"></div>
+			<div class="sponsored sp_footer"></div>
+		
+	</div>
+
+	
+	<div class="postid_5766363 sponsored promoted_1299175200 post siteid_13255 issued_1299160800">
+		
+
+
+<span class="rightBarControl cn_link wrapper sponsored">
+	<span class="hwrap">
+				<span class="tag modfont toggleable">
+			<span class="ptag site-forecolor selector_tag">
+				Sponsored contest			</span>
+						    							</span>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5766363/have-a-thing-for-sports-tech">
+			
+			<span class="headline-txt">
+				Have a Thing for Sports Tech?				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>					<div class="ad_tracker-rightbar-sp"><!-- widget container -->
+<div id="ad_container_86343416" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_86343416" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="1" height="1"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			adRobot.queueAdRun(86343416, {"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"1x1","request_ad":true,"mode":"iframe","run_ad":false,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":86343416,"variant":"default","width":1,"height":1,"tags":["contest","gizmodo","headline"],"ged_zone":"book","fallback_zone":"collapse"});
+	</script></div>			<div class="clear"></div>
+			<div class="sponsored sp_footer"></div>
+		
+	</div>
+
+	
+	<div class="postid_5766304 sponsored promoted_1299092400 post siteid_13255 issued_1299074400">
+		
+
+
+<span class="rightBarControl cn_link wrapper sponsored">
+	<span class="hwrap">
+				<span class="tag modfont toggleable">
+			<span class="ptag site-forecolor selector_tag">
+				Sponsored contest			</span>
+						    							</span>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5766304/stifle-the-noise">
+			
+			<span class="headline-txt">
+				Stifle the Noise				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>					<div class="ad_tracker-rightbar-sp"><!-- widget container -->
+<div id="ad_container_67408365" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_67408365" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="1" height="1"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			adRobot.queueAdRun(67408365, {"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"1x1","request_ad":true,"mode":"iframe","run_ad":false,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":67408365,"variant":"default","width":1,"height":1,"tags":["contest","gizmodo","headline"],"ged_zone":"book","fallback_zone":"collapse"});
+	</script></div>			<div class="clear"></div>
+			<div class="sponsored sp_footer"></div>
+		
+	</div>
+
+	
+	<div class="postid_5770387 sponsored promoted_1299024000 post siteid_13255 issued_1299006000">
+		
+
+
+<span class="rightBarControl cn_link wrapper sponsored">
+	<span class="hwrap">
+				<span class="tag modfont toggleable">
+			<span class="ptag site-forecolor selector_tag">
+				Sponsored			</span>
+						    							</span>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5770387/development-of-a-great-app-shazam">
+			
+			<span class="headline-txt">
+				Development of a Great App: <i>Shazam</i>				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>					<div class="ad_tracker-rightbar-sp"><!-- widget container -->
+<div id="ad_container_70858018" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_70858018" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="1" height="1"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			adRobot.queueAdRun(70858018, {"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"1x1","request_ad":true,"mode":"iframe","run_ad":false,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":70858018,"variant":"default","width":1,"height":1,"tags":["greatapps","advertisement","gizmodo","headline"],"ged_zone":"intelappuppost","fallback_zone":"collapse"});
+	</script></div>			<div class="clear"></div>
+			<div class="sponsored sp_footer"></div>
+		
+	</div>
+
+	
+	<div class="postid_5766320 sponsored promoted_1299006000 post siteid_13255 issued_1298988000">
+		
+
+
+<span class="rightBarControl cn_link wrapper sponsored">
+	<span class="hwrap">
+				<span class="tag modfont toggleable">
+			<span class="ptag site-forecolor selector_tag">
+				Sponsored contest			</span>
+						    							</span>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5766320/whats-that-in-your-pocket">
+			
+			<span class="headline-txt">
+				What’s That In Your Pocket?				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>					<div class="ad_tracker-rightbar-sp"><!-- widget container -->
+<div id="ad_container_84261357" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_84261357" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="1" height="1"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			adRobot.queueAdRun(84261357, {"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"1x1","request_ad":true,"mode":"iframe","run_ad":false,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":84261357,"variant":"default","width":1,"height":1,"tags":["contest","gizmodo","headline"],"ged_zone":"book","fallback_zone":"collapse"});
+	</script></div>			<div class="clear"></div>
+			<div class="sponsored sp_footer"></div>
+		
+	</div>
+
+	
+	<div class="postid_5766300 sponsored promoted_1298937600 post siteid_13255 issued_1298919600">
+		
+
+
+<span class="rightBarControl cn_link wrapper sponsored">
+	<span class="hwrap">
+				<span class="tag modfont toggleable">
+			<span class="ptag site-forecolor selector_tag">
+				Sponsored contest			</span>
+						    							</span>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5766300/stifle-the-noise">
+			
+			<span class="headline-txt">
+				Stifle the Noise				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>					<div class="ad_tracker-rightbar-sp"><!-- widget container -->
+<div id="ad_container_35615967" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_35615967" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="1" height="1"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			adRobot.queueAdRun(35615967, {"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"1x1","request_ad":true,"mode":"iframe","run_ad":false,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":35615967,"variant":"default","width":1,"height":1,"tags":["contest","gizmodo","headline"],"ged_zone":"book","fallback_zone":"collapse"});
+	</script></div>			<div class="clear"></div>
+			<div class="sponsored sp_footer"></div>
+		
+	</div>
+
+	
+	<div class="postid_5762472 sponsored promoted_1298419200 post siteid_13255 issued_1298401200">
+		
+
+
+<span class="rightBarControl cn_link wrapper sponsored">
+	<span class="hwrap">
+				<span class="tag modfont toggleable">
+			<span class="ptag site-forecolor selector_tag">
+				Sponsored contest			</span>
+						    							</span>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5762472/whats-that-in-your-pocket">
+			
+			<span class="headline-txt">
+				What’s That In Your Pocket?				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>					<div class="ad_tracker-rightbar-sp"><!-- widget container -->
+<div id="ad_container_66688583" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_66688583" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="1" height="1"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			adRobot.queueAdRun(66688583, {"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"1x1","request_ad":true,"mode":"iframe","run_ad":false,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":66688583,"variant":"default","width":1,"height":1,"tags":["contest","gizmodo","headline"],"ged_zone":"book","fallback_zone":"collapse"});
+	</script></div>			<div class="clear"></div>
+			<div class="sponsored sp_footer"></div>
+		
+	</div>
+
+	
+	<div class="postid_5759952 sponsored promoted_1298332800 post siteid_13255 issued_1298314800">
+		
+
+
+<span class="rightBarControl cn_link wrapper sponsored" href="http://gizmodo.com/#!5759952/thermal-attraction-watches-change-color-as-your-body-temp-rises/gallery/">
+	<span class="hwrap">
+
+		<div class="gallery_preview">
+								<a class="rightBarControl cn_link" href="http://gizmodo.com/#!5759952/thermal-attraction-watches-change-color-as-your-body-temp-rises/gallery/1" class="gallery_image">
+						<img src="http://fastcache.gawkerassets.com/assets/images/13255/2011/02/xsmall_dieselwatches_thermal2.jpg" width="67" height="38" />
+											</a>
+								<a class="rightBarControl cn_link" href="http://gizmodo.com/#!5759952/thermal-attraction-watches-change-color-as-your-body-temp-rises/gallery/2" class="gallery_image">
+						<img src="http://fastcache.gawkerassets.com/assets/images/13255/2011/02/xsmall_blue.jpg" width="67" height="38" />
+											</a>
+								<a class="rightBarControl cn_link" href="http://gizmodo.com/#!5759952/thermal-attraction-watches-change-color-as-your-body-temp-rises/gallery/3" class="gallery_image">
+						<img src="http://fastcache.gawkerassets.com/assets/images/13255/2011/02/xsmall_green.jpg" width="67" height="38" />
+											</a>
+					</div>
+
+		<a href="/#!hotness/5759952" class="toggleable rightBarControl tag cn_link modfont  site-forecolor">
+			<span class="ptag site-forecolor selector_tag">Sponsored</span>
+							<br/><span class="timestamp">2:00 PM</span>
+							    							<br/>
+			<span class="highlight">
+				13,213&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</a>
+
+		<a class="headline" href="http://gizmodo.com/#!5759952/thermal-attraction-watches-change-color-as-your-body-temp-rises/gallery/">
+			Thermal Attraction Watches Change Color As Your Body Temp Rises
+					</a>
+
+	</span>
+
+	<div class="clear"></div>
+</span>
+					<div class="ad_tracker-rightbar-sp"><!-- widget container -->
+<div id="ad_container_57406549" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_57406549" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="1" height="1"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			adRobot.queueAdRun(57406549, {"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"1x1","request_ad":true,"mode":"iframe","run_ad":false,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":57406549,"variant":"default","width":1,"height":1,"tags":["hotness","advertisement","gizmodo","headline"],"ged_zone":"dieselwatches","fallback_zone":"collapse"});
+	</script></div>			<div class="clear"></div>
+			<div class="sponsored sp_footer"></div>
+		
+	</div>
+
+	
+	<div class="postid_5754157 sponsored promoted_1298264340 post siteid_13255 issued_1298217291">
+		
+
+
+<span class="rightBarControl cn_link wrapper sponsored">
+	<span class="hwrap">
+				<span class="tag modfont toggleable">
+			<span class="ptag site-forecolor selector_tag">
+				Sponsored			</span>
+						    								<br/>
+			<span class="highlight">
+				30,793&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</span>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5754157/what-gadgets-would-you-need-to-get-your-life-back-from-an-impostor">
+			
+			<span class="headline-txt">
+				Unknown Man&#8217;s Life Stolen, Including His Wife				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>					<div class="ad_tracker-rightbar-sp"><!-- widget container -->
+<div id="ad_container_43019957" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_43019957" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="1" height="1"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			adRobot.queueAdRun(43019957, {"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"1x1","request_ad":true,"mode":"iframe","run_ad":false,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":43019957,"variant":"default","width":1,"height":1,"tags":["identitycrises","advertisement","gizmodo","headline"],"ged_zone":"wbtheatricalpost","fallback_zone":"collapse"});
+	</script></div>			<div class="clear"></div>
+			<div class="sponsored sp_footer"></div>
+		
+	</div>
+
+	
+	<div class="postid_5764328 sponsored promoted_1298077200 post siteid_13255 issued_1298059200">
+		
+
+
+<span class="rightBarControl cn_link wrapper sponsored">
+	<span class="hwrap">
+				<span class="tag modfont toggleable">
+			<span class="ptag site-forecolor selector_tag">
+				Sponsored			</span>
+						    								<br/>
+			<span class="highlight">
+				25,990&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</span>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5764328/the-guy-who-came-up-with-facebooks-best-feature-ever-re+joins-the-company">
+			
+			<span class="headline-txt">
+				The Guy Who Came Up With Facebook&#8217;s Best Feature Ever Re-Joins The Company				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>					<div class="ad_tracker-rightbar-sp"><!-- widget container -->
+<div id="ad_container_61182718" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_61182718" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="1" height="1"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			adRobot.queueAdRun(61182718, {"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"1x1","request_ad":true,"mode":"iframe","run_ad":false,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":61182718,"variant":"default","width":1,"height":1,"tags":["facebook","advertisement","gizmodo","headline"],"ged_zone":"cdwpost","fallback_zone":"collapse"});
+	</script></div>			<div class="clear"></div>
+			<div class="sponsored sp_footer"></div>
+		
+	</div>
+
+	
+	<div class="postid_5752142 sponsored promoted_1297929600 post siteid_13255 issued_1297836000">
+		
+
+
+<span class="rightBarControl cn_link wrapper sponsored">
+	<span class="hwrap">
+				<span class="tag modfont toggleable">
+			<span class="ptag site-forecolor selector_tag">
+				Sponsored			</span>
+						    								<br/>
+			<span class="highlight">
+				25,796&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</span>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5752142/introducing-the-perfectly-portable-89+inch-lg-optimus-pad">
+			
+			<span class="headline-txt">
+				Don’t Sacrifice Viewability for Portability. Get Both with the 8.9-inch LG Optimus Pad				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>					<div class="ad_tracker-rightbar-sp"><!-- widget container -->
+<div id="ad_container_91257446" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_91257446" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="1" height="1"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			adRobot.queueAdRun(91257446, {"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"1x1","request_ad":true,"mode":"iframe","run_ad":false,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":91257446,"variant":"default","width":1,"height":1,"tags":["advertisement","gizmodo","headline"],"ged_zone":"lgtabletpost","fallback_zone":"collapse"});
+	</script></div>			<div class="clear"></div>
+			<div class="sponsored sp_footer"></div>
+		
+	</div>
+
+	
+	<div class="postid_5757241 sponsored promoted_1297789200 post siteid_13255 issued_1297368300">
+		
+
+
+<span class="rightBarControl cn_link wrapper sponsored">
+	<span class="hwrap">
+				<span class="tag modfont toggleable">
+			<span class="ptag site-forecolor selector_tag">
+				Sponsored			</span>
+						    								<br/>
+			<span class="highlight">
+				33,189&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</span>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5757241/test-your-tech-knowledge-and-compete-to-win-a-trip-to-puerto-rico">
+			
+			<span class="headline-txt">
+				Test Your Tech Knowledge and Compete to Win a Trip to Puerto Rico				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>					<div class="ad_tracker-rightbar-sp"><!-- widget container -->
+<div id="ad_container_92349905" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_92349905" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="1" height="1"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			adRobot.queueAdRun(92349905, {"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"1x1","request_ad":true,"mode":"iframe","run_ad":false,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":92349905,"variant":"default","width":1,"height":1,"tags":["advertisement","gizmodo","headline"],"ged_zone":"donqmasterpost","fallback_zone":"collapse"});
+	</script></div>			<div class="clear"></div>
+			<div class="sponsored sp_footer"></div>
+		
+	</div>
+
+	
+	<div class="postid_5751912 sponsored promoted_1297278000 post siteid_13255 issued_1297260000">
+		
+
+
+<span class="rightBarControl cn_link wrapper sponsored">
+	<span class="hwrap">
+				<span class="tag modfont toggleable">
+			<span class="ptag site-forecolor selector_tag">
+				Sponsored			</span>
+						    							</span>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5751912/fly-far-far-away-for-free">
+			
+			<span class="headline-txt">
+				Fly Far, Far Away. For Free!				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>					<div class="ad_tracker-rightbar-sp"><!-- widget container -->
+<div id="ad_container_70192208" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_70192208" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="1" height="1"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			adRobot.queueAdRun(70192208, {"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"1x1","request_ad":true,"mode":"iframe","run_ad":false,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":70192208,"variant":"default","width":1,"height":1,"tags":["advertisement","gizmodo","headline"],"ged_zone":"book","fallback_zone":"collapse"});
+	</script></div>			<div class="clear"></div>
+			<div class="sponsored sp_footer"></div>
+		
+	</div>
+
+	
+	<div class="postid_5750143 sponsored promoted_1297206000 post siteid_13255 issued_1297191600">
+		
+
+
+<span class="rightBarControl cn_link wrapper sponsored">
+	<span class="hwrap">
+				<span class="tag modfont toggleable">
+			<span class="ptag site-forecolor selector_tag">
+				Sponsored			</span>
+						    							</span>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5750143/acura-tsx-sport-wagon">
+									<img class="headline-img" width="208" src="http://fastcache.gawkerassets.com/assets/images/13255/2011/02/small_explore_gawkersales_videos_62.jpg" />
+			
+			<span class="headline-txt">
+				Get Zagat Reviews from Your Navigation System				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>					<div class="ad_tracker-rightbar-sp"><!-- widget container -->
+<div id="ad_container_15017131" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_15017131" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="1" height="1"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			adRobot.queueAdRun(15017131, {"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"1x1","request_ad":true,"mode":"iframe","run_ad":false,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":15017131,"variant":"default","width":1,"height":1,"tags":["advertisement","gizmodo","headline"],"ged_zone":"acuratsxpost","fallback_zone":"collapse"});
+	</script></div>			<div class="clear"></div>
+			<div class="sponsored sp_footer"></div>
+		
+	</div>
+
+	
+	<div class="postid_5751995 sponsored promoted_1297105200 post siteid_13255 issued_1296840000">
+		
+
+
+<span class="rightBarControl cn_link wrapper sponsored">
+	<span class="hwrap">
+				<span class="tag modfont toggleable">
+			<span class="ptag site-forecolor selector_tag">
+				Sponsored contest			</span>
+						    								<br/>
+			<span class="highlight">
+				16,070&nbsp;
+				<img src="http://betacache.gawkerassets.com/assets/base.v10/img/icons/rightbar.flame.png" class="icon-flame" />
+			</span>
+					</span>
+		<span class="tag toggleable tag-ad" style="display: none; padding-right: 3px;">
+			<div class="ad_82x50"></div>		</span>
+
+		<a class="headline" href="http://gizmodo.com/#!5751995/gawker-artists-open-call-for-artists-and-exhibitors">
+			
+			<span class="headline-txt">
+				Gawker Artists: Open Call For Artists and Exhibitors				<br /><span class="broughtby"></span>
+			</span>
+		</a>
+	</span>
+
+	<div class="clear"></div>
+</span>					<div class="ad_tracker-rightbar-sp"><!-- widget container -->
+<div id="ad_container_18738422" class="ad_container" style="display: none;">
+	<iframe id="ad_iframe_18738422" frameBorder="0" scrolling="no" vspace="0" marginWidth="0" marginHeight="0" hspace="0" allowTransparency="true" width="1" height="1"></iframe>
+</div>
+
+<!-- widget startup -->
+<!-- runScript --><script type="text/javascript">
+			adRobot.queueAdRun(18738422, {"adserver_host":"hyperion.gawker.com","site":"gm.gizmodo","site_id":"4","size":"1x1","request_ad":true,"mode":"iframe","run_ad":false,"keywords":["mtfIFPath=\/assets\/vendor\/doubleclick\/"],"random":18738422,"variant":"default","width":1,"height":1,"tags":["contest","sponsored","advertisement","gizmodo","headline","sky"],"ged_zone":"book","fallback_zone":"collapse"});
+	</script></div>			<div class="clear"></div>
+			<div class="sponsored sp_footer"></div>
+		
+	</div>
+</div>					</div>
+				</div></div>
+
+				<div id="list-bottom" style="height: 1px; width: 300px; position: absolute; bottom: 0px;"></div>
+
+				
+							</div>
+		</div><!--wrap-->
+	</div><!--rightwrapper-->
+
+</div><!--#rightwrapper-->
+
+
+</div><!--#container-->
+
+<!-- runScript --><script type="text/javascript" charset="utf-8">
+	adRobot.setSkinCSS([]);
+</script>		<!--<div class="clear">&nbsp;</div>-->
+
+
+		<div class="sitescontainer" style="visibility:hidden">
+
+			
+						<img src="http://betacache.gawkerassets.com/assets/base.v10/img/footer-sitelist.png" usemap="#sitelistmap"/>
+			
+			<map name="sitelistmap" id="sitelistmap">
+				<area shape="rect" coords="544,0,610,20" href="http://lifehacker.com/" alt="" />
+				<area shape="rect" coords="462,0,544,20" href="http://gizmodo.com/" alt="" />
+				<area shape="rect" coords="384,0,462,20" href="http://jalopnik.com/" alt="" />
+				<area shape="rect" coords="345,0,384,20" href="http://io9.com/" alt="" />
+				<area shape="rect" coords="272,0,345,20" href="http://jezebel.com/" alt="" />
+				<area shape="rect" coords="208,0,272,20" href="http://kotaku.com/" alt="" />
+				<area shape="rect" coords="112,0,208,20" href="http://deadspin.com/" alt="" />
+				<area shape="rect" coords="0,0,112,20" href="http://gawker.com/" alt="" />
+			</map>
+
+			<hr class="threed"/>
+
+			<div id="debug_pane" style="display: none;">
+				<h6>Debug info</h6>
+				<textarea cols="72" rows="17" id="debug_server_info" wrap="off"></textarea>
+			</div>
+
+							<!---Quantcast tags for our "Chic" or "Geek" sites, otherwise use regular tag -->
+<!-- Start Quantcast tag -->
+	<!-- runScript --><script type="text/javascript">
+		_qoptions = { tags:"Gawker Geek" };
+	_qacct="p-d4P3FpSypJrlA";
+	</script>
+	<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+	<script type="text/javascript">
+		window.quantcastRun = 1;
+	</script>
+				<div id="tracker_loader"></div>
+				<img id="gawker_tracker_image" style="display: none;" height="0" width="0" class="track" alt="track" />
+			
+			<ul id="footer_siteinfo">
+				<li><a rel="nofollow" href="/#!about/" title="Click here to go to About">About</a></li>
+				<li><a rel="nofollow" href="/#!about/^masthead" title="Click here to go to About">Masthead</a></li>
+				<li><a rel="nofollow" href="/#!about/^forums" title="Click here to go to Forums">Forums</a></li>
+								<li><a title="Jobs" href="http://gawker.com/jobsatgawker" rel="nofollow">Jobs</a></li>
+				<li><a title="Click here to go to Legal" href="http://advertising.gawker.com/legal/" rel="nofollow">Legal</a></li>
+				<li><a title="Click here to go to Legal" href="http://advertising.gawker.com/legal/privacy-policy/" rel="nofollow">Privacy</a></li>
+				<li><a title="Click here to go to Advertising" href="http://advertising.gawker.com/" rel="nofollow">Advertising</a></li>
+								<li><a title="RSS Feed" href="/#!about/^subscribe">Subscribe</a></li>
+				<li><a title="RSS Feed" href="mailto:tips@gizmodo.com">Send a tip</a></li>
+								<li class="editorControlsWidget_external"><a href="#" style="display:none" class="debuglink editor_control cn_for_editors" onclick="jQuery('#debug_pane').slideToggle(200); var dh=jQuery(this).html(); jQuery(this).html( dh.indexOf('Display') != -1 ? dh.replace( 'Display', 'Hide' ) : dh.replace( 'Hide', 'Display' ) ); return false;">Display debug</a></li>
+			</ul>
+					</div>
+
+	</div><!--.inner-->
+
+</div><!--#main-container-->
+
+
+
+
+<!-- external presence templates -->
+	<div class="commentform_container" style="display: none;">
+		<div id="postform_widget" class="commentform grid-bleed" style="display: none;">
+	<div class="form_part">
+		<div class="header">
+			<!-- tabs -->
+			<ul class="tabs">
+				<li class="pfc cn_switchtab switch t_video">YouTube</li>
+				<li class="pfc cn_switchtab switch t_quote">Quote</li>
+				<li class="pfc cn_switchtab switch t_image">Image</li>
+				<li class="pfc cn_switchtab switch t_text">Text</li>
+			</ul>
+
+			<img src="http://cache.gawkerassets.com/assets/images/commenter/noimage.gif" class="pfc cn_author_image" width="26" height="26" style="display: none;" />
+			<a href="#" class="pfc cn_author_link" style="display: none;"></a>
+
+					</div>
+
+		<div class="tab t_image pfc cn_image_upload_external" style="display: none;">
+			<div class="pfc cn_image_upload_wrap" style="display: none;">
+				<form method="post" accept-charset="utf-8" enctype="multipart/formdata" class="pfc cn_fileuploadform">
+					<span class="pfc cn_label_image_upload">
+						<button class="pfc button cn_select_image_url">Image URL</button>
+						&nbsp;
+						<button class="pfc button selected cn_select_image_upload">Upload an image</button>
+					</span>
+					<br />
+					<input type="file" name="image_upload" value="" class="pfc cn_image_upload" />
+					<span class="upload_message pfc cn_image_upload_result"></span>
+				</form>
+			</div>
+		</div>
+
+		<form method="post" class="pfc cn_postform" accept-charset="utf-8">
+			<input type="hidden" name="op" value="addcomment" class="pfc cn_op" />
+			<input type="hidden" name="mode" value="text" class="pfc cn_mode" />
+			<input type="hidden" name="parent_id" value="" class="pfc cn_parent_id" />
+			<input type="hidden" name="root_id" value="" class="pfc cn_root_id" />
+			<input type="hidden" name="sitetag" value="" class="pfc cn_sitetag" />
+			<input type="hidden" name="comment_id" value="" class="pfc cn_comment_id" />
+			<input type="hidden" name="anonymous_email" value="" class="pfc cn_anonemailinput" />
+			<input type="hidden" name="newsletter" value="" class="pfc cn_anonnewsletter"/>
+			<input type="hidden" name="image_file" value="" class="pfc cn_image_file" />
+			<input type="hidden" name="image_format" value="" class="pfc cn_image_format" />
+
+			<div class="pf_expanded pfc cn_expandedform">
+				<!-- tab-selected entry fields -->
+				<div class="tab t_text" style="display: none;">
+					<!-- empty for now -->
+				</div>
+				<div class="tab t_image" style="display: none;">
+					<div class="pfc cn_image_url_wrap">
+						<span class="pfc cn_label_image_upload">
+							<button class="pfc button selected cn_select_image_url">Image URL</button>
+													</span>
+						<br />
+
+						<input type="text" name="image_url" value="" placeholder="http://" class="pfc cn_image_url" tabindex="1" />
+					</div>
+				</div>
+				<div class="tab t_video" style="display: none;">
+					<label for="video_url">Video URL</label><br />
+					<input type="text" name="video_url" value="" tabindex="1" class="pfc cn_video_url" />
+				</div>
+
+				<div class="tab t_quote" style="display: none;">
+					<label for="quote_url">Quote source URL</label><br />
+					<input type="text" name="quote_url" value="" class="pfc cn_quote_url" />
+					<label for="quote">Quote</label>
+					<textarea name="quote" class="pfc cn_quote"></textarea>
+				</div>
+
+				<!-- common fields -->
+				<label for="entry" class="label-post">Post</label>
+				<div class="pfc cn_entry_preview" style="display: none;"></div>
+				<textarea name="entry" class="pfc cn_entry" tabindex="2"></textarea><br />
+
+				<div class="shifter">
+					<div class="actions">
+						<div class="left"></div>
+						<div class="right">
+							<span class="pfc cn_indicator" style="display: none;">
+								<img src="http://betacache.gawkerassets.com/assets/base.v10/img/indicator/progressIndicator_roller.gif" class="indicator" />
+								Submitting comment...
+							</span>
+							&nbsp;
+							<button class="thin pfc cn_cancel modfont" tabindex="4">Cancel</button>
+							&nbsp;
+							<button class="thin pfc cn_submit modfont default" tabindex="3">Submit</button>
+						</div>
+					</div>
+				</div>
+			</div>
+		</form>
+		<span class="pfc cn_message" style="display: none;"></span>
+			</div>
+</div>	</div>
+<div class="presence_control_external smalltype">
+	<div class="modal_overlay presence_control ic editor_control mail2control cn_overlay" style="display:none;"></div>
+	<div class="modal dialog login presence_control cn_login_dialog" style="display:none;width:550px;">
+		<div class="inner">
+			<div class="caption">Login</div>
+			<img class="siteIcon" src="http://betacache.gawkerassets.com/assets/v10.gizmodo.com/img/apple-touch-icon.png"/>
+
+			<div class="text">
+				<div class="loading menubar_login_indicator presence_control cn_login_indicator" style="display:none"><span class="msg"><img height="16" width="16" src="http://betacache.gawkerassets.com/assets/base.v10/img/indicator/progressIndicator_roller_f0f0f0.gif" alt="logging in"> Logging in...</span></div>
+				<div class="content">
+					<p>Enter your username and password.</p>
+	
+					<form class="presence_control cn_login_form" method="post" action="/?op=login">
+						<input class="presence_control cn_redirect_to" type="hidden" name="redirect_to" value="" />
+						<input type="hidden" value="1" name="remember" class="presence_control cn_remember" />
+						<div class="row">
+							<label for="login_username">Username:</label><input id="login_username" name="username" type="text" value="" maxlength="255" class="validate valid_nonempty presence_control cn_username" />
+							<div class="validationmessage username_validmsg msg_valid_nonempty" style="display: none;">Please enter a username.</div>
+						</div>
+						<div class="row">
+							<label for="login_password">Password:</label><input id="login_password" name="password" type="password" value="" maxlength="255" class="validate valid_nonempty presence_control cn_password" />
+							<div class="validationmessage password_validmsg msg_valid_nonempty" style="display: none;">Please enter your password.</div>
+						</div>
+						<div class="row">
+							<input type="submit" value="Login" class="presence_control cn_login_button button default"/>
+							<input type="button" value="Cancel" class="presence_control cn_login_cancel button" />
+							<div class="presence_control cn_loginmessage"></div>
+						</div>
+						<div class="row">
+							or Login via <a href="#" class="presence_control cn_login_oauth type_facebook">Facebook</a> |
+							<a href="#" class="presence_control cn_login_oauth type_twitter">Twitter</a>
+													</div>
+					</form>
+	
+					<div class="footer">
+		                							<a href="#" class="presence_control cn_toggleregisterdialog">Sign Up</a> |
+						<a href="#" class="reset presence_control cn_toggleresetpwdialog">Reset Password</a>
+					</div> <!-- .content -->
+				</div><!-- .text -->
+			</div>
+		</div>
+	</div>
+
+	<!-- reset password -->
+
+	<div class="modal dialog resetPassword presence_control cn_resetpw_dialog" style="display: none; width:550px;">
+		<div class="inner">
+			<div class="caption">Reset Password</div>
+			<img class="siteIcon" src="http://betacache.gawkerassets.com/assets/v10.gizmodo.com/img/apple-touch-icon.png"/>
+
+			<div class="text" id="resetPassword1">
+				<p id="noAsciiNotify" style="display: none;">
+					You password contains non US-ASCII characters. We recommend you reset your password due to a flaw in handling non US-ASCII characters.
+				</p>
+				<p>Please enter the email address associated with your account to have it reset.</p>
+
+				<form action="/?op=emailpassword" method="post" class="presence_control cn_resetpw_form">
+					<div class="row">
+						<label for="resetpw_email">Email:</label><input type="text" id="resetpw_email" name="email" maxlength="255" class="validate valid_nonempty valid_email presence_control cn_resetpwemail" />
+						<div class="validationmessage email_validmsg msg_valid_nonempty" style="display: none;">Please enter your email address.</div>
+						<div class="validationmessage email_validmsg msg_valid_email" style="display: none;">Please enter a valid email address.</div>
+					</div>
+					<div class="row" style="margin-left: 148px">
+					<script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+					<div id="resetPwRecaptcha" style="display: none;">6LfSor8SAAAAAKQnBZMKP3wYxbQWb_sjCvAaFxos</div>
+					</div>
+					<div class="row">
+						<span class="menubar_login_indicator presence_control cn_resetpw_indicator" style="display: none;"><img width="16" height="16" alt="requesting password reset" src="http://betacache.gawkerassets.com/assets/base.v10/img/indicator/progressIndicator_roller_f0f0f0.gif" /></span>
+						<a  class="gbut presence_control cn_resetpw_submit thin" href="#" style="">
+	<span class="gbin">
+				<span class="gbtx ">
+						Reset					</span>
+	</span>
+</a>						<a  class="gbut presence_control cn_resetpw_cancel thin" href="#" style="">
+	<span class="gbin">
+				<span class="gbtx ">
+						Cancel					</span>
+	</span>
+</a>						<input type="submit" value="Reset" class="presence_control hiddenSubmit"/>
+
+												<div class="presence_control cn_resetpwmessage"></div>
+					</div>
+				</form>
+
+			</div>
+			<div class="text" id="resetPassword2" style="display: none;">
+				<p>A temporary password has been emailed to you. If you do not receive the password reset email, please be sure to check your spam folder. In some cases, it can take up to 10 minutes for your email service to receive the email.</p>
+				<p>If you still haven't received the email, please contact <a href="mailto:help@gawker.com">help@gawker.com</a> for further assistance.</p>
+				<input type="button" value="Close" class="presence_control cn_resetpw_cancel" />
+			</div>
+		</div>
+	</div>
+
+	<!-- new user -->
+
+	<div class="modal dialog register presence_control cn_register_dialog" style="width: 550px; display: none;">
+		<div class="inner">
+			<div class="caption">Register</div>
+			<img class="siteIcon" src="http://betacache.gawkerassets.com/assets/v10.gizmodo.com/img/apple-touch-icon.png"/>
+
+			<div class="text">
+				<p class="presence_control cn_register_copy">You can log in to Gawker using your Facebook or Twitter accounts. If you wish to remain anonymous, we suggest creating a separate Twitter account. You will need to be approved before your comments will display on the site.</p>
+				<p>Want to know more? Consult the <a target="_blank" title="Comment FAQ" href="http://gawker.com/commentfaq/">Comment FAQ</a> and <a target="_blank" title="Legal terms" href="http://advertising.gawker.com/legal/">legal terms</a>.</p>
+
+				<p>
+				Register via
+				</p>
+
+				<form action="/?op=register" method="post" class="presence_control cn_register_form">
+					<input class="presence_control cn_register_invitecode" type="hidden" name="code" value="" />
+					<div class="row">
+
+						<span class="oauth-links">
+							<a href="#" class="presence_control cn_login_oauth type_facebook"><img src="http://betacache.gawkerassets.com/assets/base.v10/img/ui/oauth-facebook.png" title="Register via Facebook Connect"/></a>
+							<a href="#" class="presence_control cn_login_oauth type_twitter"><img src="http://betacache.gawkerassets.com/assets/base.v10/img/ui/oauth-twitter.png" title="Register via Twitter"/></a>
+													</span>
+
+						<a  class="gbut presence_control cn_register_cancel thin" href="#" style="">
+	<span class="gbin">
+				<span class="gbtx ">
+						Cancel					</span>
+	</span>
+</a>						<input type="submit" value="Register" class="presence_control hiddenSubmit" />
+												<div class="presence_control cn_registermessage"></div>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+
+	<div class="modal dialog emailreminder presence_control cn_emailreminder_dialog" style="width: 550px; display: none;">
+		<div class="inner">
+			<div class="caption">Register</div>
+			<img class="siteIcon" src="http://betacache.gawkerassets.com/assets/v10.gizmodo.com/img/apple-touch-icon.png"/>
+
+			<div class="text">
+				<p class="presence_control cn_emailreminder_copy">One last thing!</p>
+				<p class="presence_control cn_emailreminder_copy2">While we don't require an email address to sign up, consider adding one to your account. This will give you the ability to reset a lost or stolen password. </p>
+
+				<form action="/?op=register" method="post" class="presence_control cn_emailreminder_form">
+					<input class="presence_control cn_emailreminder_invitecode" type="hidden" name="code" value="" />
+					<input type="hidden" id="emailreminder_username" name="username" maxlength="255" class="presence_control cn_emailreminder_username" />
+					<input type="hidden" id="emailreminder_password" name="password" maxlength="255" class="presence_control cn_emailreminder_password" />
+					<input type="hidden" id="emailreminder_confirm_password" name="confirm_password" maxlength="255" class="presence_control cn_emailreminder_confirm_password" />
+					<input type="hidden" id="emailreminder_remember" name="remember" class="presence_control cn_emailreminder_remember" />
+					<div class="row">
+						<label for="emailreminder_email">Email (not published):</label><input type="text" id="emailreminder_email" name="email" maxlength="255" class="validate valid_email presence_control cn_emailreminder_email" />
+						<div class="validationmessage email_validmsg msg_valid_email" style="display: none;">Please enter a valid email address.</div>
+					</div>
+					<div class="row"><label for="emailreminder_newsletter">Sign me up for Gawker's email newsletter</label><input type="checkbox" id="emailreminder_newsletter" name="newsletter" class="presence_control cn_emailreminder_newsletter" checked="yes" /></div>
+					<div class="row">
+						<span class="menubar_login_indicator presence_control cn_emailreminder_indicator" style="display: none;"><img width="16" height="16" alt="registration sent, waiting for reply" src="http://betacache.gawkerassets.com/assets/base.v10/img/indicator/progressIndicator_roller_f0f0f0.gif" /></span>
+						<input type="submit" value="Add email" class="presence_control cn_emailreminder_submit" />
+						<input type="button" value="No thanks" class="presence_control cn_emailreminder_cancel" />
+						<input type="hidden" name="noemail" value="0" class="presence_control cn_emailreminder_noemail" />
+						<div class="presence_control cn_emailremindermessage"></div>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+
+	
+	
+	<!-- change password -->
+
+	<div class="modal dialog presence_control cn_changepassword_dialog" style="display: none;">
+		<div class="inner">
+			<div class="caption">Change password</div>
+			<img class="siteIcon" src="http://betacache.gawkerassets.com/assets/v10.gizmodo.com/img/apple-touch-icon.png"/>
+
+			<div class="text">
+				<p id="noAsciiNotifyChangePassword" style="display: none;">
+					You password contains non US-ASCII characters. We recommend you change your password due to a flaw in handling non US-ASCII characters.
+				</p>
+				<form action="/?op=setprofile" method="post" class="presence_control cn_changepassword_form">
+					<input type="hidden" name="username" value="" class="presence_control cn_changepassword_username" />
+					<input type="hidden" name="id" value="" class="presence_control cn_changepassword_id" />
+					<div class="row">
+						<label for="changepassword_password">Old Password:</label><input type="password" name="password" id="changepassword_password" maxlength="255" class="validate valid_nonempty presence_control cn_changepassword_password" />
+						<div class="validationmessage password_validmsg msg_valid_nonempty" style="display: none;">Please enter a password.</div>
+					</div>
+					<div class="row">
+						<label for="changepassword_new_password">New Password:</label><input type="password" name="new_password" id="changepassword_new_password" maxlength="255" class="validate valid_nonempty presence_control cn_changepassword_new_password" />
+						<div class="validationmessage new_password_validmsg msg_valid_nonempty" style="display: none;">Please enter a password.</div>
+					</div>
+					<div class="row">
+						<label for="changepassword_confirm_password">Confirm Password:</label><input type="password" name="confirm_password" id="changepassword_confirm_password" maxlength="255" class="validate valid_nonempty valid_sameas-new_password presence_control cn_changepassword_confirm_password" />
+						<div class="validationmessage confirm_password_validmsg msg_valid_nonempty" style="display: none;">Please confirm your password.</div>
+						<div class="validationmessage confirm_password_validmsg msg_valid_sameas" style="display: none;">Passwords are not identical.</div>
+					</div>
+					<div class="row presence_control cn_changepassword_messagebig" style="text-align: right; color: #900"></div>
+					<div class="row">
+						<span class="menubar_login_indicator presence_control cn_changepassword_indicator" style="display: none;"><img width="16" height="16" alt="password change in progress, waiting for reply" src="http://betacache.gawkerassets.com/assets/base.v10/img/indicator/progressIndicator_roller_f0f0f0.gif" /></span>
+						<input type="submit" value="Save" class="presence_control cn_changepassword_submit"/>
+						<input type="button" value="Cancel" class="presence_control cn_changepassword_cancel"/>
+						<div class="presence_control cn_changepassword_message"></div>
+					</div>
+				</form>
+
+				<div class="footer">
+                    <a class="reset presence_control cn_toggleresetpwdialog" href="#">reset password</a>
+                </div>
+			</div>
+		</div>
+	</div>
+
+	<!-- delete user -->
+
+	<div class="modal dialog presence_control cn_deleteuser_dialog" style="display: none;">
+		<div class="inner">
+			<div class="caption">Account Deletion</div>
+			<img class="siteIcon" src="http://betacache.gawkerassets.com/assets/v10.gizmodo.com/img/apple-touch-icon.png"/>
+
+			<div class="text">
+				<form action="/?op=deleteuser" method="post" class="presence_control cn_deleteuser_form">
+					<input type="hidden" name="username" value="" class="presence_control cn_deleteuser_username" />
+					<input type="hidden" name="id" value="" class="presence_control cn_deleteuser_id" />
+					<div class="row" style="text-align: left;">
+						<p>We understand you'd like to delete your account. If you delete your account all of your information including your comments, messages, posts, and friends and followers associations will be removed from our system. Please consider the following options before clicking delete.</p>
+						<p>If you're concerned about your public identity on site you can change both your username or your display name. Your display name is the name that is publicly visible to other users. Your username is what you login with and is in your profile url. Both can be edited by going to your profile then clicking "Edit Profile." </p>
+						<p>If you still wish to completely delete your account, click the Delete Account button below. Your account will be locked, and your information will be wiped from our servers within 30 days.</p>
+					</div>
+					<div class="row" style="text-align: left;">
+						<input type="submit" value="Delete Account" class="presence_control cn_deleteuser_submit"/>
+						<input type="button" value="Cancel" class="presence_control cn_deleteuser_cancel"/>
+						<span class="menubar_login_indicator presence_control cn_deleteuser_indicator" style="display: none;"><img width="16" height="16" alt="Account deletion is in progress." src="http://betacache.gawkerassets.com/assets/base.v10/img/indicator/progressIndicator_roller_f0f0f0.gif" /></span>
+						<div class="presence_control cn_deleteuser_message"></div>
+					</div>
+					<div class="row" style="text-align: left;">
+						<p>If you have any other questions about deleting your account, please contact <a href="mailto:help@gawker.com">help@gawker.com</a>. If you've already contacted <a href="mailto:help@gawker.com">help@gawker.com</a> about deleting your account, we've received your request and will follow up with you.</p>
+					</div>
+					<div class="row">
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+
+	<!-- anon comment panel - belongs to commentbox widget-->
+	<div class="modal dialog guestpanel presence_control cn_guestpanel_dialog" style="display: none; width: 455px;">
+		<div class="inner">
+			<div class="caption">Submit your comment</div>
+			<img class="siteIcon" src="http://betacache.gawkerassets.com/assets/v10.gizmodo.com/img/apple-touch-icon.png"/>
+
+			<div class="text">
+
+				<p>You don't need to login to comment. Just enter your email address below.</p>
+				<p>See how your address will be displayed in the <a href="http://gawker.com/commentfaq/" target="_blank">Comment FAQ</a>.</p>
+
+				<form class="presence_control cn_guestpanel_form" method="post">
+					<div class="row">
+						<label for="guestpanel_email">Email address:</label><input id="guestpanel_email" name="email" type="text" value="" maxlength="255" class="validate valid_nonempty valid_email presence_control cn_guestpanelemail" style="width:270px" />
+						<div class="validationmessage email_validmsg msg_valid_email" style="display: none;">Please enter a valid email address.</div>
+						<div class="validationmessage email_validmsg msg_valid_nonempty" style="display: none;">Please enter a valid email address.</div>						
+					</div>
+					<div class="row" style="margin: 10px 0;">
+						<label for="gusetpanel_newsletter" style="margin-right: 2px;">Get Gizmodo's daily newsletter?</label><input type="checkbox" id="guestpanel_newsletter" name="newsletter" class="presence_control cn_guestpanel_newsletter" checked="yes" />
+						<input type="submit" value="Submit" class="button default presence_control cn_guestpanel_button" style="margin-right:20px"/>
+					</div>
+					
+					<div class="row">
+						<span class="menubar_guestpanel_indicator presence_control cn_guestpanel_indicator" style="display: none;"><img width="16" height="16" alt="logging in" src="http://betacache.gawkerassets.com/assets/base.v10/img/indicator/progressIndicator_roller_f0f0f0.gif" /></span>
+						<div class="presence_control cn_guestpanelmessage"></div>
+					</div>
+				</form>
+
+				<div class="footer bordered" style="float:left">
+					<p style='float:left;margin:0'>
+						<strong>Already have an account?</strong>
+						<a href="#|login" class="ic cn_requestlogin">Login now.</a><br/>
+						<strong>New?</strong>
+						<a href="#|register" class="presence_control cn_requestregister">Create an account</a>.
+					</p>
+
+					<input type="button" value="Cancel" class="button presence_control cn_guestpanel_cancel" style="float:right;margin-top:4px;" />
+					
+								</div>
+			</div>
+			<br style="clear: both; height: 0px;" />
+		</div>
+	</div>
+
+
+	<!-- star invites -->
+
+	<div class="modal dialog editor_control cn_starinvite_dialog" style="display: none; width:550px;">
+		<div class="inner">
+			<div class="caption">Send An Invitation <span class="editor_control cn_starinvite_left"></span></div>
+			<img class="siteIcon" src="http://betacache.gawkerassets.com/assets/v10.gizmodo.com/img/apple-touch-icon.png"/>
+
+			<div class="text">
+				<p class="editor_control cn_starinvite_copy">To invite commenters to this page, paste in a list of comma-separated email addresses, and then select send invites.</p>
+
+				<form action="/?op=sendinvite" method="post" class="editor_control cn_starinvite_form">
+					<div class="row">
+						<label for="starinvite_email">Emails:</label><textarea style="width:350px;height:80px;" id="starinvite_email" name="emailto" class="validate valid_nonempty valid_emails_comma valid_unique_comma valid_limit_comma-10 editor_control cn_starinvite_email"></textarea>
+						<div class="validationmessage emailto_validmsg msg_valid_nonempty" style="display: none;">Please enter at least one email address.</div>
+						<div class="validationmessage emailto_validmsg msg_valid_emails_comma" style="display: none;">Please use valid email addresses.</div>
+						<div class="validationmessage emailto_validmsg msg_valid_unique_comma" style="display: none;">Please use unique email addresses.</div>
+						<div class="validationmessage emailto_validmsg msg_valid_limit_comma" style="display: none;">Please enter fewer addresses.</div>
+					</div>
+					<div class="row">
+						<span class="menubar_login_indicator editor_control cn_starinvite_indicator" style="display: none;"><img width="16" height="16" alt="requesting invites" src="http://betacache.gawkerassets.com/assets/base.v10/img/indicator/progressIndicator_roller_f0f0f0.gif" /></span>
+						<input type="hidden" name="postId" value="" class="editor_control cn_starinvite_postid" />
+						<input type="hidden" name="ajax" value="true" class="editor_control cn_starinvite_ajax" />
+						<input type="submit" value="Send invites" class="editor_control cn_starinvite_submit"/>
+						<input type="button" value="Cancel" class="editor_control cn_starinvite_cancel"/>
+						<div class="editor_control cn_starinvitemessage"></div>
+					</div>
+				</form>
+
+			</div>
+		</div>
+	</div>
+
+	<div class="modal dialog mail2control cn_mail2_dialog" style="display: none; width:550px;">
+		<div class="inner">
+			<div class="caption">Send a link</div>
+			<img class="siteIcon" src="http://betacache.gawkerassets.com/assets/v10.gizmodo.com/img/apple-touch-icon.png"/>
+
+			<div class="text">
+				<p>Send a link to this post '<strong>A Look at How <em>Tron Legacy</em>'s Awesome Software Art Was Made</strong>' via email:</p>
+
+				<form action="/" class="mail2control cn_form" id="mail2form" method="post">
+				    <input name="hash" type="hidden" value="5271d7ad69861b82fbe4c1a02fc4e10d" />
+					<input name="op" type="hidden" value="mail2" />
+				    <input name="uri" class="mail2control cn_uri" type="hidden" value="http://gizmodo.com/#!5788616/a-look-at-how-tron-legacys-awesome-software-art-was-made" />
+				    <input name="title" class="mail2control cn_title" type="hidden" value="A Look at How <em>Tron Legacy</em>'s Awesome Software Art Was Made" />
+				    <input name="mail2sitename" type="hidden" value="Gizmodo" />
+				    <input class="mail2control cn_token" name="mail2token" type="hidden" value="">
+					<div class="row">
+						<label for="mail2_from">Your name:</label><input id="mail2_from" name="from" type="text" value="" maxlength="255" class="validate valid_nonempty mail2control cn_from" />
+						<div class="validationmessage from_validmsg msg_valid_nonempty" style="display: none;">Please enter your name.</div>
+					</div>
+					<div class="row">
+						<label for="mail2_fromemail">Your email address:</label><input id="mail2_fromemail" name="fromemail" type="text" value="" maxlength="255" class="validate valid_nonempty valid_email mail2control cn_fromemail" />
+						<div class="validationmessage fromemail_validmsg msg_valid_nonempty" style="display: none;">Please enter your email address.</div>
+						<div class="validationmessage fromemail_validmsg msg_valid_email" style="display: none;">Please enter a valid email address.</div>
+					</div>
+					<div class="row">
+						<label for="mail2_to">Recipient's Email Address:</label><input id="mail2_to" name="to" type="text" value="" maxlength="255" class="validate valid_nonempty valid_email mail2control cn_to" />
+						<div class="validationmessage to_validmsg msg_valid_nonempty" style="display: none;">Please enter your recipient's email address.</div>
+						<div class="validationmessage to_validmsg msg_valid_email" style="display: none;">Please enter a valid email address.</div>
+					</div>
+					<div class="row">
+						<label for="mail2_message">Your Message:</label><textarea id="mail2_message" name="message" class="validate valid_nonempty"></textarea>
+						<div class="validationmessage message_validmsg msg_valid_nonempty" style="display: none;">Please enter your message.</div>
+					</div>
+					<div class="row">
+						<span class="mail2control cn_indicator" style="display: none;"><img width="16" height="16" alt="Sending message" src="http://betacache.gawkerassets.com/assets/base.v10/img/indicator/progressIndicator_roller_f0f0f0.gif" /></span>
+						<input type="submit" value="Send message" class="mail2control cn_submit"/>
+						<input type="button" value="Cancel" class="mail2control cn_cancel" />
+						<div class="mail2control cn_message"></div>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+
+	<div class="modal dialog republish_control cn_quickpost_dialog" style="display: none; width: 300px;">
+		<div class="inner">
+			<div class="caption">Splice</div>
+			<img class="siteIcon" src="http://betacache.gawkerassets.com/assets/v10.gizmodo.com/img/apple-touch-icon.png"/>
+			<div class="text">
+				<form action="/ged/index.php" method="post" target="_blank" class="republish_control cn_quickpostForm">
+					<input type="hidden" name="op" value="selcont" />
+					<input type="hidden" name="title" value="" />
+					<input type="hidden" name="entry" value="" />
+					<input type="hidden" name="url" value="" />
+					<div class="row">Splice to:
+						<select class="republish_control cn_quickpostSiteId"></select>
+					</div>
+					<div class="row">
+						<button class="republish_control cn_quickpostSubmit">Submit</button>
+						<button class="republish_control cn_quickpostCancel">Cancel</button>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+	<div class="modal dialog republish_control cn_republish_dialog" style="display: none; width: 300px;">
+		<div class="inner">
+			<div class="caption">Syndicate</div>
+			<img class="siteIcon" src="http://betacache.gawkerassets.com/assets/v10.gizmodo.com/img/apple-touch-icon.png"/>
+			<div class="text">
+				<form action="index.php" method="post" class="republish_control cn_republish_form">
+					<input type="hidden" name="op" value="ajax_slurp" />
+					<input type="hidden" name="action" class="republish_control cn_action" value="" />
+					<input type="hidden" name="id" class="republish_control cn_postId" />
+					<div class="row">Republish to:
+						<select name="siteId" class="republish_control cn_siteId"></select>
+					</div>
+					<div class="row">
+						Republish On <input class="republish_control cn_republish_issued" name="issued" value="" />
+					</div>
+										<div class="row">
+						Post Status
+						<select class="republish_control cn_republish_pubstatus" name="pubStatus">
+															<option value="DRAFT">draft</option>
+															<option value="TAGPAGE">tagpage</option>
+															<option value="PUBLISHED">published</option>
+															<option value="DELETED">deleted</option>
+													</select>
+					</div>
+					<div class="row republish_control cn_message" style="display: none;"></div>
+					<div class="row republish_control cn_progress" style="display: none">
+						<img width="16" height="16" alt="logging in" src="http://betacache.gawkerassets.com/assets/base.v10/img/indicator/progressIndicator_roller_f0f0f0.gif" />
+						Saving...
+					</div>
+					<div class="row">
+						<button class="republish_control cn_republish_submit">Republish</button>
+						<button class="republish_control cn_republish_cancel">Cancel</button>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+	<div class="modal dialog republish_control cn_edit_dialog" style="display: none; width: 300px;">
+		<div class="inner">
+			<div class="caption">Syndicate</div>
+			<img class="siteIcon" src="http://betacache.gawkerassets.com/assets/v10.gizmodo.com/img/apple-touch-icon.png"/>
+			<div class="text">
+				<form action="index.php" method="post" class="republish_control cn_edit_form">
+					<input type="hidden" name="op" value="ajax_slurp" />
+					<input type="hidden" name="action" value="edit" />
+					<input type="hidden" name="id" class="republish_control cn_postId" />
+					<div class="row">
+						Republished On <input class="republish_control cn_edit_issued" name="issued" value="" />
+					</div>
+										<div class="row">
+						Post Status
+						<select class="republish_control cn_edit_pubstatus" name="pubStatus">
+															<option value="DRAFT">draft</option>
+															<option value="TAGPAGE">tagpage</option>
+															<option value="PUBLISHED">published</option>
+															<option value="DELETED">deleted</option>
+													</select>
+					</div>
+					<div class="row republish_control cn_message" style="display: none;"></div>
+					<div class="row republish_control cn_progress" style="display: none">
+						<img width="16" height="16" alt="logging in" src="http://betacache.gawkerassets.com/assets/base.v10/img/indicator/progressIndicator_roller_f0f0f0.gif" />
+						Saving...
+					</div>
+					<div class="row">
+						<button class="republish_control cn_edit_submit">Save</button>
+						<button class="republish_control cn_edit_cancel">Cancel</button>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+
+		</div>
+
+<div id="notif_templates" style="display: none;">
+	<span class="star">%userName% starred %you%</span>
+	<span class="unstar">%userName% took away %your% star</span>
+	<span class="promote">%userName% promoted <a href="%commentLink%">%your% comment</a></span>
+	<span class="demote">%userName% demoted <a href="%commentLink%">%your% comment</a></span>
+	<span class="reply">%userName% replied to <a href="%commentLink%">%your% comment</a></span>
+	<span class="approve">%userName% approved %you%</span>
+	<span class="pending">%userName% took away %your% approval</span>
+	<span class="removed">%userName% has banned %you%</span>
+	<div id="notif_container">
+		<div class="post notification">
+			<h6 class="headline">%text%</h6>
+		</div>
+	</div>
+	<div id="notif_header">
+		<strong>You have %count% new notification%notifplural%</strong>, click to view
+	</div>
+</div>
+<script>
+    notification_options = {
+            'host' : '174.129.202.156:7777',
+            'siteId' : 4,
+    		'lastUpdate' : 1302556742        };
+    GawkerClientside.pushWidget('notificationControl', jQuery('#rightbar_notification_container').NotificationWidget( notification_options ).data('NotificationWidget'));
+        var splashpost_options = {
+    	    'canonicalHost' : 'gizmodo.com',
+    	    'contentPath' : 'http://dyn-cache.gizmodo.com/static/frontpage/gizmodo.com/splashpost.php?pipeJsonP=?'
+   	};
+    GawkerClientside.pushWidget('splashpostControl', jQuery('#container').SplashPostWidget( splashpost_options ).data('SplashPostWidget'));
+</script>
+
+<script type="text/javascript" charset="utf-8">
+	// presence widget: set if current page_type should reload when logging in
+		var presence_options = {'isReloading':false};
+		GawkerClientside.pushWidget('presence', jQuery('#top_presence_control').PresenceWidget(presence_options).data('PresenceWidget'));
+	var chartbeat_options = {
+		'host' : 'dev.gawker.com:8888',
+		'interval' : 10,
+		'runChartbeat' : true	};
+	GawkerClientside.pushWidget('chartbeat', jQuery('#activity').ChartbeatWidget( chartbeat_options ).data('ChartbeatWidget'));
+</script>
+
+
+<div class="gawkerwidget hidden_commenter_area" style="display: none;"></div>
+<div class="gawkerwidget threads_area" style="display: none;"></div>
+<div class="gawkerwidget threadadmin_area" style="display: none;"></div>
+<div class="gawkerwidget commenteradmin_area" style="display: none;"></div>
+<div class="gawkerwidget commenter_area" style="display: none;"></div>
+<div class="gawkerwidget editorcontrols_area" style="display: none;"></div>
+<div class="gawkerwidget republish_area" style="display: none;"></div>
+<div id="hyphenate-container" class="modfont"></div>
+<script type="text/javascript" charset="utf-8">
+	// gallery widget
+	GawkerClientside.pushWidget('gallery', jQuery('.mainContent').GalleryWidget().data('GalleryWidget'));
+	// navigation widget
+	var gnw = GawkerClientside.pushWidget('navigation', jQuery('.mainContent').NavigationWidget().data('NavigationWidget'));
+	// main content loader
+	GawkerClientside.pushWidget('maincontent', jQuery('.mainContent').MainContentWidget({'interstitial_frequency' : 4 }).data('MainContentWidget'));
+	// comment related widgets
+	GawkerClientside.pushWidget('thread', jQuery('.threads_area').ThreadWidget( {} ).data('ThreadWidget'));
+	GawkerClientside.pushWidget('threadadmin', jQuery('.gawkerwidget.threadadmin_area').ThreadAdminWidget({}).data('ThreadAdminWidget'));
+	GawkerClientside.pushWidget('commentform', jQuery('.commentform_container #postform_widget').CommentFormWidget().data('CommentFormWidget'));
+	GawkerClientside.pushWidget('commenteradmin', jQuery('.gawkerwidget.commenteradmin_area').CommenterAdminWidget({}).data('CommenterAdminWidget'));
+	GawkerClientside.pushWidget('commenter', jQuery('.gawkerwidget.commenter_area').CommenterWidget({}).data('CommenterWidget'));
+
+	var republishOptions = {
+		'sites'		: {"43":"advertising","31":"consumerist","11":"deadspin","1":"defamer","2":"fleshbot","12119":"gay fleshbot","7":"gawker","4":"gizmodo","33":"idolator","8":"io9","12":"jalopnik","39":"jezebel","9":"kotaku","17":"lifehacker","34":"valleywag","37":"artists","42":"gawkershop","30":"sploid","13242":"gawkertv"},
+		'siteIds'	: [43,31,11,1,2,12119,7,4,33,8,12,39,9,17,34,37,42,30,13242]	};
+	GawkerClientside.pushWidget('editorcontrols', jQuery('.gawkerwidget.editorcontrols_area').EditorControlsWidget().data('EditorControlsWidget'));
+	GawkerClientside.pushWidget('republishtool', jQuery('.gawkerwidget.republish_area').RepublishToolWidget( republishOptions ).data('EditorControlsWidget'));
+
+</script>
+<script type="text/javascript">
+	var forumTagList = ["tips","whitenoise","broken","lifechanger","trollpatrol","redesign","tuesdaytunesmodo","wednesdaybookclub","drunkmodo","rosarocks","saturdaymovienight","commentoftheweek","fakerumorthursday","wotd","wordoftheday","comicmodo","birthdaymodo"];
+</script>
+
+
+<div class="ad_chartbeat_end"><script type="text/javascript">
+var _sf_async_config={uid:3012,domain:"gizmodo.com"};
+</script></div>
+</body>
+</html>

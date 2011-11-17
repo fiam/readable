@@ -1,0 +1,6 @@
+*.so
+*.o
+readable
+__init__.py
+tests/initial
+tests/final
