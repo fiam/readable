@@ -1474,7 +1474,7 @@ find_next_link(htmlDocPtr doc, xmlNodePtr node, const char *url)
     }
 
     if (xmlStrstr(href, BAD_CAST "http://") == href ||
-        xmlStrstr(url, BAD_CAST "https://") == href) {
+        xmlStrstr(BAD_CAST url, BAD_CAST "https://") == href) {
     
         return href;
     }
