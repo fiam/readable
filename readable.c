@@ -61,7 +61,7 @@ UChar *uastrdup(const char *s)
 #define RD_RE URegularExpression
 #define matches(re, s) ({ \
     UErrorCode status = U_ZERO_ERROR; \
-    UChar *cs = uastrdup(s); \
+    UChar *cs = uastrdup((const char *)s); \
     uregex_setText(re, cs, -1, &status); \
     UBool result = uregex_find(re, 0, &status); \
     uregex_reset(re, 0, &status); \
