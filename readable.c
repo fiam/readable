@@ -13,6 +13,7 @@
 
 #ifdef READABLE_USE_LIBICU
 #include <unicode/uregex.h>
+#include <unicode/ustring.h>
 #else
 #include <pcre.h>
 #endif
