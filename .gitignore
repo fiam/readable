@@ -1,5 +1,6 @@
 *.so
 *.o
+*.pyc
 readable
 __init__.py
 tests/initial
