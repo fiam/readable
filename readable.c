@@ -103,6 +103,10 @@ static RD_RE *SMALL_TEXT = NULL;
 static RD_RE *VIDEO = NULL;
 static RD_RE *UNLIKELY_ARTICLE_IMAGE = NULL;
 
+#ifdef DEBUG_LOG
+#undef DEBUG_LOG
+#endif
+
 #ifdef READABLE_DEBUG
 #define DEBUG_LOG(...) fprintf(stderr, __VA_ARGS__)
 char *
