@@ -162,6 +162,8 @@ finalize_regexps(void)
     FINALIZE_RE(VIDEO);
     FINALIZE_RE(UNLIKELY_ARTICLE_IMAGE);
 #ifdef READABLE_USE_LIBICU
+    /* uclean.h is not in the iOS SDK */
+    extern void u_cleanup(void);
     u_cleanup();
 #endif
 }
