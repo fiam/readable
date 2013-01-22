@@ -103,6 +103,8 @@ static RD_RE *SMALL_TEXT = NULL;
 static RD_RE *VIDEO = NULL;
 static RD_RE *UNLIKELY_ARTICLE_IMAGE = NULL;
 
+#define HTML_READ_DOC_OPTIONS (HTML_PARSE_RECOVER | HTML_PARSE_NOERROR | HTML_PARSE_NOWARNING)
+
 #ifdef DEBUG_LOG
 #undef DEBUG_LOG
 #endif
@@ -1179,7 +1181,7 @@ char *
 readable(const char *html, const char *url, const char *encoding, int options)
 {
     const xmlChar *input = (const xmlChar *)html;
-    htmlDocPtr doc = htmlReadDoc(input, url, encoding, HTML_PARSE_RECOVER);
+    htmlDocPtr doc = htmlReadDoc(input, url, encoding, HTML_READ_DOC_OPTIONS);
     char *retval = NULL;
     htmlNodePtr readable_node = NULL;
 
@@ -1429,7 +1431,7 @@ readable(const char *html, const char *url, const char *encoding, int options)
         stripped the multimedia element
         */
         xmlFreeDoc(doc);
-        doc = htmlReadDoc(input, url, encoding, HTML_PARSE_RECOVER);
+        doc = htmlReadDoc(input, url, encoding, HTML_READ_DOC_OPTIONS);
         struct rd_list *image_candidates = NULL;
         struct rd_list *video_candidates = NULL;
         int image_candidates_count = 0;
@@ -1517,7 +1519,7 @@ next_page_url(const char *html, const char *url,
               const char *encoding)
 {
     const xmlChar *input = (const xmlChar *)html;
-    htmlDocPtr doc = htmlReadDoc(input, url, encoding, HTML_PARSE_RECOVER);
+    htmlDocPtr doc = htmlReadDoc(input, url, encoding, HTML_READ_DOC_OPTIONS);
     xmlChar *next_url = NULL;
     
     if (!doc) {
